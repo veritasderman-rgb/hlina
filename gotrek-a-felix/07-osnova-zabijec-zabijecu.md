@@ -383,6 +383,6 @@ Epilog má sesbírat drobné dluhy (Alrik, Gorril, Shallya, Karaghul, rodina). N
 
 ## 8. Stav psaní
 
-- Hotovo: úvod, JEDNA, DVĚ (přepsány do bohaté češtiny), TŘI.
-- Další na řadě: ČTYŘI (Skarnův pohled a Karak Kadrin).
+- Hotovo: úvod, JEDNA, DVĚ (přepsány do bohaté češtiny), TŘI, ČTYŘI.
+- Další na řadě: PĚT (Soud a Noc rudých hřebenů).
 - Po každé kapitole aktualizovat `text/denik-kontinuity.md`.

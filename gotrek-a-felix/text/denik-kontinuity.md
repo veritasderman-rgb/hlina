@@ -97,3 +97,48 @@ Průběžně doplňovaná fakta, která text ustanovil. Před psaním každé da
 - Gotrek vložil úlomek uražené sekery zpět do kamenné ruky sochy.
 
 **Kliffhanger:** v noci Felix slyšel v chodbě cinkání řetězu, nejspíš **Skarnova řetězu s hřebeny**, ale neřekl to nikomu. Ráno našli černou trpasličí dýku, na ní **čerstvý oranžový hřeben** s kůží a kolem ní **stránku vytrženou z velmi staré knihy zášti** s novým řádkem dopsaným tmavším inkoustem. Gotrek zešedl, stránku zmačkal a dal ji do váčku, kde předtím nosil třísku. Hřeben si vzal. Felix stránku nepřečetl, neumí runy. Orri ji poznal jako stránku z knihy zášti „starší než já“.
+
+## Stav po kapitole ČTYŘI
+
+**Časová osa Gotrekova zločinu (závazné):** masakr v síni pána **Haldrika, syna Thorova**, v **Kazad Haldriku** („údolí, které už nemá jméno“) se stal **před 80 lety**, v den, kdy padl první sníh. To odpovídá K8: Gotrek je trolobijcem 80 let. **Skarn** byl tehdy holobrádek, schovával se za tapiserií a viděl, jak se otcova hlava kutálí k jeho nohám. Gotrek tehdy měl **černý vous**, bílou tvář, obyčejnou sekeru (runovou našel až později), křičel na pána, ten se mu vysmál a mávl na stráže. Po masakru si Gotrek nožem mrtvého strážného ostříhal vlasy na hřeben. Kniha zášti klanu Haldrikssonů: zápis psal **strýc Thorgrim** (byl v dolech, přežil, o rok později zemřel „žalem, nebo hanbou“). Začátek zápisu: *„Gotrek, syn Gurniho, z údolí, z rodu, jehož jméno už se nepíše. V den, kdy padl první sníh, přišel do síně pána Haldrika, syna Thorova, a…“* **Tuto stránku Skarn vytrhl** a nechal ji u Gotreka. Skarnova verze nezmiňuje mrtvou ženu a dítě, a to je jeho „lež“.
+
+**Skarn (pohled z kapitoly)**
+- Je trolobijcem asi 70 let a nosí knihu 80 let. Mluví klidně a vznešeně. Řetěz z černého železa nese **38 hřebenů** těch, kdo odmítli, a všechny zná jménem.
+- Rudé hřebeny přesvědčuje řečí o tom, že „Grimnir nás nenávidí, nechá nás zestárnout“. Khorne jim místo toho nabízí „nekonečnou bitvu“.
+- Odmítnutým dává čistou smrt v souboji a teprve potom jim usekne hřeben. Je to jeho povinnost a nikoho jiného k tomu nepustí.
+- **Brokk z Karak Varnu** (asi 50 let, hlavu si oholil před 2 lety, když utekl před gobliny a zemřel mu bratr) odmítl: „Grimnir je můj pán.“ Jeho hřeben byl na dýce.
+- Druhové: **Grumni** (nejstarší, s ním nejdéle), **Ulfar** (hledá smrt 90 let). Rudých hřebenů je kolem 60.
+- O Gotrekovi se dozvěděl od napůl šíleného trpaslíka, který utekl z Karag Dumu. Druhý den ráno poprvé uviděl Děsovy oči v ohni.
+- **Děs** promlouvá z ohně („tůně temnoty“, rohy z plamenů). Hlas cítí v kostech jen Skarn, ostatní mlčí. Oslovuje ho „otroku“. Plán: Kladivo z Grimnirova oltáře, Gotrek **živý**, jeho krev na Kladivu u „vlčího plamene lidského boha“, a pak už ho nikdo nevyžene. „Dvakrát zabil vlastní krev.“
+- **Skarnova trhlina:** „Chtěl jsem spravedlnost.“ Děs se mu vysmál. „Kamínek v botě.“
+- **Byl to Skarn osobně**, kdo v undgrinu stál ve tmě a cinkal řetězem a kdo zarazil dýku. **Gotrek na okamžik otevřel oko a podíval se přímo na něj.** Nepohnul se a nic neřekl. Skarn ví, že ho Gotrek poznal.
+
+**Karak Kadrin**
+- Dorazili 5. den po nálezu dýky. Popis odpovídá K4: hora stranou v údolí, pevnost vytesaná do vrcholu, vnější zdi porostlé lišejníkem, kouř z výhní, vysekané údolí s řekou.
+- Brána je otevřená a z města odchází vojsko do Říše. Velekrál prý vyslyšel prosbu Karla Franze.
+- **Ulice umělců** je plná nových trolobijců, „tolik jich nebylo ani za války s orky z Černé skály“. Gotrek se zastavil u mladíka, kterému tetovali první runu.
+- **Ungrimm Železná pěst:** hřeben prošedivělý u kořínků, vrásky, „skoro šílená inteligence“. Zdraví každého jménem (comic beat). Felixe pozdravil celým titulem: „synu Gustavův, Kladivonoši, Příteli trpaslíků, pamětníku Gotreka Gurnissona“. Před 17 lety nabídl Gotrekovi vyrýt jméno a ten odpověděl „Ještě ne“. Teď Gotrek řekl: „**Teď jsem přišel k soudu.**“
+- **Soud:** zítra **při západu slunce před sloupem přísahy**.
+- Trolobijci mizí **6 let** i s pamětníky a zbraněmi. Grimnirův kámen v undgrinu je už **třetí** znesvěcený za poslední rok. Ungrimm tuší, že „syn Gurniho to ví“.
+- Síň krále je ověšená poškozenými zbraněmi padlých trolobijců.
+
+**Borkův dopis**
+- Borek zemřel před 5 lety ve svém pokoji v knihovně, nad knihou. Byl posledním ze svého rodu.
+- Na obalu stojí „pro pamětníka Gotreka Gurnissona“. Je to několik listů hustých run s neznámou rodovou pečetí.
+- **Písař** (drobný, inkoust na prstech i ve vousech) přeložil jen začátek: *„Pokud tohle čteš, Felixi Jaegere, pak je Gotrek, syn Gurniho, ještě naživu a já už ne. Až jednou poznáš celou pravdu o tom, proč si oholil hlavu, nesuď ho podle toho, co udělal tehdy. Suď ho podle toho, co dělal potom.“*
+- Felix odmítl číst dál. Chce to slyšet od Gotreka. Oba dopisy, Gorrilův i Borkův, nosí v kabátci.
+
+**Hargrim**
+- Vous mu zhrubl a zbělel na skráních, oblečený je prostě a šedě. Na krku nosí přívěsek ve tvaru kladiva. „Král bez království je jen trpaslík s dlouhým jménem.“ Je strážcem Kladiva.
+- Splnil Borkův starý slib z K4 a ukázal Felixovi svatyni. Oslovuje ho „Kladivonoši“.
+
+**Grimnirova svatyně**
+- Vede k ní točitá chodba s „tetováním“ vyrytým do kamene. Sál je obrovský, uprostřed hoří **nehasnoucí hranice** z celých kmenů, do které se házejí ostříhané vlasy, a všude visí pach spáleného vlasu.
+- Socha Grimnira je desetkrát vyšší než ta v undgrinu. Stojí na **černém kamenném oltáři** a na něm leží **Ohňovousovo Kladivo** („Kladivo osudu“, jak mu říkal Thangrim): topůrko zčernalé stářím a kovová hlavice s runami „jako krajka“.
+- **Sloup přísahy** stojí vlevo od oltáře. Neobejme ho ani deset mužů a je pokrytý desetitisíci jmen. Kdo padl, má vedle jména **znak sekery**.
+  - Se sekerou: **Steg, Grimme, Ulli, Bjorni**.
+  - Bez sekery: **Malakai Makaisson** a **Snorri Nosohryz** (runy hrubé, „jako by se tesajícímu třásla ruka“).
+  - **Gotrek na sloupu není.** Hargrim spekuluje, že se někteří trolobijci za svou hanbu cítí nehodní.
+- Felix si pamatuje celou Gotrekovu odpověď z K1 (dostavník, Geheimnisnacht), ale v textu se zatím cituje jen první polovina. **„Bratrovrah“ se vybaví až u soudu v kap. 5.**
+
+**Kliffhanger:** runy na Kladivu se rozzářily modrobíle, pulzují a Kladivo „zpívá“. Hargrim: „Takhle zpívalo naposledy v Karag Dumu, v noci předtím, než přišel Děs.“ Ve dveřích stojí Gotrek a **runy na jeho sekeře svítí ve stejném rytmu**. Gotrek řekl: „Je blízko. Cítím ho, človíčku. Stejně jako on cítí mě.“

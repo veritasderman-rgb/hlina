@@ -248,7 +248,7 @@ Orri si sundal brýle a začal je pomalu leštit cípem vousu. Bylo to gesto, kt
 
 Orri se na něj dlouho díval přes ta svá tlustá skla.
 
-„Vím jen to, co ví každý strážce knihy v Horách na konci světa,“ řekl nakonec pomalu. „Že kdysi, dávno, kdy jsem byl ještě mladý, a to už je opravdu hodně dávno, se v jednom údolí na severu stalo něco, o čem se nemluví. A že od té doby existuje stránka, kterou si strážci knih předávají z ruky do ruky a kterou nikdo nečte nahlas.“ Pokrčil rameny. „Víc nevím. A kdybych věděl, pane Jaegere, neřekl bych vám to. To není moje zášť. Ani vaše.“
+„Vím jen to, co ví každý strážce knihy v Horách na konci světa,“ řekl nakonec pomalu. „Že kdysi, a na lidské poměry je to už hodně dávno, se v jednom údolí na severu stalo něco, o čem se nemluví. A že od té doby existuje stránka, kterou si strážci knih předávají z ruky do ruky a kterou nikdo nečte nahlas.“ Pokrčil rameny. „Víc nevím. A kdybych věděl, pane Jaegere, neřekl bych vám to. To není moje zášť. Ani vaše.“
 
 A Felix se už nezeptal.
 
