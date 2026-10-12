@@ -260,3 +260,167 @@
 40. „Já nelžu.“ – „Píšeš divadelní hry, ne?“ (K8 ř. 3085–3087)
 
 ---
+## 2. FELIX JAEGER
+
+### 2.1 Původ
+- **Rodina:**
+  - Altdorf. Otec **Gustav Jaeger**, „jeden z nejbohatších obchodníků Říše“ (K2 ř. 27). Vlastní povoznictví a lesní usedlost (K1 ř. 1656) i tiskárny: Felix si představuje své paměti „tištěné dokonalým švabachem v jedné z otcových tiskáren“ (K1 ř. 1844). Otec jezdí obchodovat do Marienburgu (K7 ř. 837). Jeho pořekadlo: „Nejprázdnější nádoby duní nejhlasitěji“ (K4 ř. 1670).
+  - Matka **Renata Jaegerová** zemřela na úbytě, když bylo Felixovi 9 let (K1 ř. 1389, 1395; K5 ř. 1779). Modlitby k Shallye nepomohly, a odtud Felixova pozdější nevíra.
+  - Starší bratr **Otto** (K1 ř. 1850; K2). Felix měl i chůvu, která mu vyprávěla strašidelné pověsti (K1 ř. 2346; K6 ř. 747).
+  - **Nekonzistence:** v K6 ř. 333 a K7 ř. 637 se mluví o „bratrech“ v množném čísle, jinak má Felix jediného bratra Otta (K1 ř. 1389: „jeho bratr“). **Doporučení:** jmenovat jen Otta.
+- **Vydědění:** na Altdorfské univerzitě zabil „při něčem, co mělo být chlapeckým duelem“ studenta **Wolfganga Krassnera** (K1 ř. 1229). Z toho jizva na pravé tváři (K1 ř. 562, 1462), skandál, konec studií a otec ho vydědil (K1 ř. 31). Nabídku smíření později odmítl (K4 ř. 1035). „Neusmířil se s otcem a s rodinou“ (K4 ř. 2042).
+- **Radikál a básník:** byl student-radikál (K7 ř. 533) a jeho básně vyšly v Gottliebově antologii (K3 ř. 941–944) a v antologiích „nové císařské poezie“ u Altdorf Press (K6 ř. 191–195). Při protestu proti **okenní dani** („stříbrňák za každé okno“) ho Gotrek vytáhl „zpod kopyt královské jízdy“ (K1 ř. 125–133). Od té doby jsou oba **hledaní psanci** a na jejich hlavy je vypsaná odměna (K1 ř. 2133; K2 ř. 1730; K5 ř. 31).
+- „Nejsem profesor, jsem básník“ (K1 ř. 76). Je odchovaný na melodramatech **Detlefa Siercka** (K1 ř. 2248; K2 ř. 568, 822; K6 ř. 394).
+
+### 2.2 Přísaha: opilá noc v Altdorfu
+- **K1 ř. 172–173:** „ten bujarý, bouřlivý večer v hospodách **Labyrintu**, kdy si odpřísáhli **pokrevní bratrství kuriózním trpasličím rituálem**“. Gotrek chtěl, aby se na jeho jméno nezapomnělo, a když zjistil, že Felix je básník, požádal ho, aby ho doprovázel. „Sebevražedný úkol trolobijce se zdál být vynikajícím materiálem pro epickou báseň.“
+- **K7 ř. 533:** v bublině Stezek Felix znovu vidí „divokou noc, kdy se setkal s Gotrekem **u Sekery a kladiva** a přísahal, že jej bude doprovázet a napíše o jeho smrti“. **Sjednocení:** hospoda *U Sekery a kladiva* v altdorfském Labyrintu.
+- **K5 ř. 342**, vize z Arekovy perspektivy: oba opilí, Felix „stále více vzrušený“, „Trpaslík vytáhl nůž a podivná dvojice spolu uzavřela jakési pokrevní bratrství.“
+- **Nevyjasněný dodatek:** „A taky si pamatuj, že **to není všechno, co jsi slíbil**“ (K1 ř. 141). Co dalšího Felix slíbil, se nikdy neřekne. **[výklad]** Je to ideální háček pro finále. Nabízí se třeba slib dohlédnout, aby Gotrekovo jméno vyryli do sloupu přísahy (srov. K4 ř. 954–956), nebo slib, že ho nenechá zemřít nehodnou smrtí. Rozhodnutí je na autorech, text nic nepředepisuje.
+- **Felix o přísaze:** opakovaně proklíná noc, kdy přísahal (K1 ř. 2162, 2338). V K4 je ochoten ji porušit kvůli Ulrice: „Ano. Chceš jít?“ (ř. 1877). V K7 si přizná, že by přísahal znovu („Smutně si uvědomil, že odpověď zní ano“, K7 ř. 1350). Pod Spáčovým vlivem v K8 řekne: „to všechno kvůli slibu danému v opilosti! Jindy bych nikdy nic podobného neslíbil!“ (ř. 2990).
+
+### 2.3 Vzhled
+- Vysoký a štíhlý, s dlouhými **světlými, „slámovými“ vlasy** a **modrýma očima** (K1 ř. 280, 1199; K7 ř. 567), dlouhým nosem (K5 ř. 30) a jizvou ze souboje na **pravé tváři** (K1 ř. 562). Opálený, s vráskami od starostí (K4 ř. 114). Klara ho v K7 ale hodnotí jako studenta „bez jizev“ (ř. 1048).
+- **Červený plášť ze sudenlandské vlny** je poznávací znamení: podle něj ho poznal Thanquol (K3), vrazi v Praag i Teclis. Původní plášť zničil v Praag (K5 ř. 799), dál nosí nový, v K8 roztržený orčí sekerou (ř. 791).
+- V K8 mu je 40–42 let. Vyčerpaný, „tisíc let starý“ už v K7 (ř. 1350).
+
+### 2.4 Výbava
+- **Karaghul.** Runový meč s jílcem ve tvaru dračí hlavy.
+  - **Historie:** posvátná zbraň templářského **Řádu ohnivého srdce**. Ztratil ho mladý templář **Rafael** v Karaku osmi vrcholů a přisvojil si ho trol Chaosu. Templář **Aldred Keppler „Kosící ostří“** přísahal, že ho vrátí „do kapituly mého řádu“ (K1 ř. 909). Našel ho v tajné hrobce a vzápětí ho trol zabil (K1 ř. 1137–1139). Felix ho tasil a runy zazářily (K1 ř. 1169–1172). Je lehký, „jako dělaný pro jeho ruku“, a „zpívá“.
+  - **Řád Kladiva:** Felix chce meč jednou vrátit řádu (K2 ř. 1324; K4 ř. 1817–1818, kde se cítí jen „dočasným opatrovníkem“). Doktor Drexler, který s Aldredem studoval na sigmaritském semináři (K2 ř. 1327), a Hieronymus Ostwald, oba z **řádu Kladiva** (tajné sigmaritské společnosti), věří, že si Aldred vybral Felixe za **nástupce** (K2 ř. 1895–1901). Je to omyl, ale nevyvrácený.
+  - **Dračí povaha:** Max soudí, že meč „byl vykován jako **dračí zhouba**“ (K4 ř. 1824). V přítomnosti draka se probouzí: zahřeje se, runy planou, zbavuje Felixe strachu, chrání ho před dračím ohněm (K4 ř. 840) a zpomaluje čas (K4 ř. 1717). Je to vnímající zbraň, ale Felixe ovládnout nemůže, pokud to sám nedovolí (K4 ř. 1811–1824). Felix jím probodl lebku draka **Skjalandira** (K4 ř. 2185). Pak magie usnula: „Už to zase byla jen dobrá zbraň“ (K4 ř. 2218).
+  - **Později:** runy dál rozptylují duchy (K5 ř. 1080), meč zraní upíra (K6 ř. 429, 1234) a Teclis ho hodnotí jako „hruběji vyrobenou“ a slabší zbraň než sekeru (K7 ř. 504). Podle meče Teclis Felixe ve Stezkách najde (K7 ř. 567). Jméno „Karaghul“ padne znovu až v K8 („svůj dračí meč Karaghul“, ř. 342).
+  - **(mimo text)** V anglické sérii se historie meče dál rozvádí. Pro náš projekt to není závazné.
+  - **[výklad]** Neuzavřené linky: vrátit meč řádu a probudit ho znovu, pokud se objeví drak nebo dračí démon (srov. Felixovu vizi z K7 ř. 536).
+- **Teclisův amulet (K7):** „Řetěz byl z nějaké slitiny stříbra a samotný amulet tvořil kotouček ze slonoviny vykládaný stříbrnými elfími runami.“ Teclis Felixovi uložil, aby ho „nikdy neodkládal, ani ve spánku“ (K7 ř. 823). Chrání ho před démony ze Stezek, kteří si ho „dosud mohou najít“ (K7 ř. 2104). V jeskyni Orákula zazářil a zahnal strach (K7 ř. 1514), v chrámu Prastarých žhnul (K7 ř. 1913, 1917).
+  - **Tajemství, které Felix nezná:** „Kdyby se trpaslík obrátil proti němu, amulet zajistí, že muž zůstane na jeho straně, **ať už dobrovolně, nebo nedobrovolně**“ (K7 ř. 808).
+  - **V K8 se amulet ani jednou nezmiňuje.** Text neříká, zda ho Felix po dvaceti letech má. **[výklad]** Obě volby jsou dramaticky silné. Buď ho za dvacet let ztratil, což by vysvětlilo, proč byl v K8 tak zranitelný vůči Spáčovým snům (ř. 1891–1903). Nebo ho stále nosí a jeho skrytá funkce může ve finále zafungovat jako zkouška věrnosti mezi Felixem a Gotrekem. Autoři by měli rozhodnout hned na začátku K9.
+- **Další vybavení v čase:**
+  - drátěná a kroužková košile (K1–K7), v K8 **šupinová koženice** (ř. 770);
+  - dýky, z toho v K1 vrhací dýka v pouzdře na předloktí (ř. 2150);
+  - Maxův krystalový amulet (K3), zničený Krvežíznivcem (K3 ř. 2056);
+  - Drexlerův bylinkový talisman (K2 ř. 2444);
+  - **deník** (K2 ř. 2727; K8 ř. 388, 509) a lékárnička (K8 ř. 2962).
+  - **Peníze:** většinou žádné. Elissa mu vzala Ottův měšec (K2 ř. 2331) a svůj měšec dal Nelle pro sirotka (K6 ř. 588).
+
+### 2.5 Dovednosti a jejich růst
+
+| Oblast | Vývoj |
+|---|---|
+| Šerm | Má univerzitní školu (K1 ř. 27). Zabije šampiona von Halstadta (K2 ř. 584) a poprvé sám krysího lidožrouta (K2 ř. 2568). V K4 porazí v cvičném souboji Ulriku, kterou od jejích 15 let nikdo neporazil (ř. 1106–1134). V K5 dosáhne „nové úrovně zručnosti“ (ř. 1957). V K8 je veterán, který skáče náčelníkům na záda a strhává nákrčníky. |
+| Řeč a velení | Strhne nulnský dav („Občané Nulnu! Zabíječi skavenů!“, K2 ř. 2616–2628). Politicky přesvědčí krále trolobijců (K4 ř. 1014–1015). V dračím doupěti převezme velení (K4 ř. 2155). Vede měšťany v Praag (K5 ř. 1956–1960). |
+| Rozum a vyšetřování | Odhalí systém obětí moru (K2), kultu v Praag (K5) i Kriegerův úskok (K6 ř. 1154). Je „myslitel“ skupiny (K6 ř. 1308). Přichází s teoriemi o Prastarých (K7 ř. 1233, 1409). Vymyslí hořící vozík proti trolům (K8 ř. 1499) a roztrhne knihu básní (K8 ř. 1583). |
+| Zvláštní | **Pilot vzducholodi**, naučil ho Makaisson (K3 ř. 851–884; K4 ř. 113). **Jako jediný člověk od Sigmara vrhl Kladivo osudu** (K3 ř. 2059–2063; K4 ř. 139). Odolá upířímu pohledu (K6 ř. 754). Učil se se soubojovými pistolemi (K4 ř. 1689). Zná klasický jazyk a filozofii (K1 ř. 1322, 2499). |
+| Slabiny | Výšky (K3 ř. 658; v K8 na útesu ztuhne, ř. 706–733), lesy (K1 ř. 1654), nemoci (celá K6), alkohol v krizích (K4, K6 ř. 1374). |
+
+**Tituly:** **„Přítel trpaslíků a Strážce přísahy“** (K3 ř. 68), **pamětník** (K3 ř. 1713), **Kladivonoš** (K4 ř. 1361), **drakobijce** (K4 ř. 2215). Titul drakobijce sám přisuzuje Varekovi (K4 ř. 2217). V K5 drží Arekovu hlavu (ř. 2029). Sláva dvojice se šíří i mezi lidmi (K4 ř. 2257) a jejich jména děsí i Kriegerův coven (K6 ř. 1089).
+
+### 2.6 Romance a ženy v jeho životě
+1. **Kirsten (K1):** malá, štíhlá, velké tmavé oči, sirotek nevolníků a služka čarodějky Frau Winter. Je to první velká láska. Milují se u Hřmící řeky a zavraždí ji Manfred von Diehl. Umírá Felixovi v náručí: „Miluji tě.“ – „Já tě taky miluji,“ řekl jí poprvé (K1 ř. 715–719). Felix „pohřbil budoucnost“ (K1 ř. 754). Je to trvalá jizva: „Kirsten. Kéž by to jméno dokázal zapomenout“ (K8 ř. 410).
+2. **Elissa (K2):** číšnice ve Slepém praseti, malá, kulatý obličej, černé kudrnaté vlasy. Krátký vztah, „nemiluje tak, jako miloval Kirsten“ (K2 ř. 2077). Odešla s žárlivým Hansem na venkov a vzala Felixovi peníze (K2 ř. 2310–2331). V K3 ř. 14 Felix ještě přemýšlí, co se s ní stalo.
+3. **Ulrika Magdovna (K3–K6):** velká, bouřlivá a nešťastná láska (viz 4.3). První polibek v Kislevu (K3 ř. 1080), noc před odletem do Pustin a vzájemné vyznání (K4 ř. 922–925). Nabídka útěku (K4 ř. 1876–1878). Po Maxově léčení moru její vášeň vyhasne (K5 ř. 1312–1316) a v K6 se z ní stane upírka. K Felixovi je „chladná, vzdálená a nepřátelská“ (K6 ř. 2643). **V K8:** „Pokud žije, za kterou stranu bojuje?“ (ř. 3119).
+4. **Drobné epizody:** venkovská dívka (K3 ř. 97), fascinace i hrůza z hraběnky Gabrielly (K6 ř. 529), flirt s **Klarou**, ženou Culuma (K7), a s **Morag** (K7 ř. 1671). V K8 nemá žádnou romanci. Uvažuje o „ženit se? mít děti?“ (K8 ř. 1043) a o návratu domů a usazení (K8 ř. 3118).
+
+### 2.7 Paměti *Mé cesty s Gotrekem*
+- **Zrod myšlenky:** v Drakwaldu (K1 ř. 1843–1846): „Sága o Gotrekovi a Felixovi. Ne – Mé cesty s Gotrekem. Od Felixe Jaegera.“ V K2 si vede deník, který chce uložit u Otty (ř. 2727). V K4 říká, že příběh „ještě ani nezačal“ psát (ř. 2042).
+- **Rozhodnutí:** v Albionu (K7 ř. 1434–1440). Ne epická báseň, ale „kniha nebo několik svazků… *Mé cesty s Gotrekem* nebo ***Trolobijcova smrt***“. Rukopis uloží „u svého bratra nebo u Maxe Schreibera“ (ř. 1435). Uvědomí si přitom vlastní smrtelnost (ř. 1412, 1436–1437) a uvažuje i o cenzuře lovců čarodějnic (D7).
+- **Svazky podle epigrafů:** svazek II (K1, 2505), svazek III (K2–K4), svazek IV (K5–K7, 2505), **díl VII (K8, 2527)**. **[výklad]** Svazky V a VI by pokrývaly dvacetiletou mezeru na Východě. Závěrečný díl fan fiction by mohl být koncipován jako poslední svazek, například *Trolobijcova smrt*.
+- **Gotrekův požadavek** po usmíření s Hamnirem: „mně dlužíš velmi dobrou báseň… epos o mé smrti by měl být lepší, než co bylo kdy napsáno“ (K8 ř. 1615).
+- **Felix o pravdě a paměti:** „Samozřejmě to bude lež, ale bude to úžasná lež mnohem, mnohem lepší než skutečnost“ (K6 ř. 1580). „Vylepšit pověst padlých hrdinů byla vždycky práce pro básníky a dramatiky“ (K8 ř. 3088). **To je klíčové dilema pro finále:** napíše o Gotrekově smrti pravdu, nebo legendu?
+
+### 2.8 Vnitřní hlas, ironie, strach, odvaha, morální kompas
+- **Vnitřní hlas:** sebeironický a melodramatický: „Proč se to vždycky musí stát jenom mně? Sigmarovi se v legendách takové věci nikdy nestávaly!“ (K2 ř. 782), „Výborně, pomyslel si Felix“ (K5), „Do čeho jsem se to zase namočil?“ (K6 ř. 1704). Neustále srovnává realitu s divadlem („Cítím se jako ve hře Detlefa Siercka“, K6 ř. 394). Kingova série je psaná převážně z jeho pohledu. V K8 zesílí jeho žárlivost a pocit méněcennosti.
+- **Strach a odvaha:** za zbabělce se považuje jen sám. Gotrekovo „Je znakem válečníka, že umí svůj strach ovládat“ (K1 ř. 1686) přijme za své: „Strach mě nutí bojovat dobře“ (K5 ř. 1613). V K8 zjistí, že „jakmile začne boj, strach zmizí“ (ř. 2796).
+- **Temná strana:**
+  - opojení z boje a „temná přitažlivost násilí“ (K1 ř. 1823–1824);
+  - Krugera v afektu vyhodí oknem (K1 ř. 2323);
+  - barbarovi v břiše otočí čepelí (K5 ř. 1855);
+  - otupění vůči zabíjení ho děsí (K1 ř. 1228–1235).
+- **Morální kompas:**
+  - zastává se slabých: Kirsten, Greta, Magdalena, Elissa, Nella;
+  - pohrdá zkaženou šlechtou;
+  - von Halstadtovy spisy spálí, místo aby ho vydíral (K2 ř. 596);
+  - drží dané slovo, i vůči upírovi (K6 ř. 1209–1215).
+  - **V K8 poprvé vědomě lže** ve prospěch Gotreka, protože obleženým trpaslíkům chce ušetřit pravdu o zradě jejich prince (K8 ř. 3088). Lež ho tíží.
+- **Víra:** k Sigmarovi a Shallye se modlí ze zvyku, „i když už v její milosrdenství nevěřil“ (K7 ř. 1350). V Grimnirově svatyni se modlí, „aby starý bůh dal Gotrekovi slavnou smrt… a nechal Felixe naživu, aby o tom mohl napsat“, a „na okamžik… cítil přítomnost“ (K4 ř. 1417). „Já a Gotrek jsme prokleti bohy“ (K4 ř. 1829).
+
+### 2.9 Vztah ke Gotrekovi: od dluhu k přátelství
+1. **Dluh a omyl (K1):** Gotrek ho zachránil před jízdou a v opilosti uzavřeli pokrevní bratrství. Felix ho zpočátku vnímá s ironií a strachem.
+2. **Pouto ze ztráty (K1):** po Kirstenině smrti „vzájemné pochopení“ (K1 ř. 743, 760). Poznání, že bez Gotreka nedokáže žít „normálně“, a otázka proč s ním chodí: „Ať se propadnu, jestli to vím“ (K1 ř. 1850–1851).
+3. **Uznání (K2–K3):** Gotrek přijímá jeho nápady a chrání ho („Nemůžeš zemřít, dokud neuvidíš, jak jsem zabil démona!“, K3 ř. 2030).
+4. **Krize (K4):** Felix je ochoten utéct s Ulrikou. Pak se rozhodne zůstat z loajality, studu, kvůli lásce „a možná pod vlivem meče“ (K4 ř. 2079–2080).
+5. **Spolubojovník (K5–K6):** zachrání bezvědomého Gotreka i jeho sekeru (K5 ř. 1728–1737). Gotrek dodrží slib, který Felixovi dal, i vůči upírce.
+6. **Vzájemnost (K7):** Gotrek se kvůli Felixovi upíše elfovi (K7 ř. 1092). Felix ví, že by přísahal znovu.
+7. **Trhlina (K8):** Felix žárlí na Hamnira („Nebyli přátelé. Nebyli si rovni. Byli trolobijce a jeho pamětník, toť vše“, K8 ř. 1644). Pod Spáčem si vmetou křivdy. Gotrek ho použije jako návnadu. Felix pro Gotreka lže.
+
+### 2.10 Stav na konci K8 (výchozí bod K9)
+- **Fyzicky:** vyčerpaný a potlučený, pohmožděný krk, rány na hlavě, kousnutí do nohy (K8 ř. 3028). Kotník už má vyléčený.
+- **Psychicky:**
+  - Otřesený vybitím Démantokovů, „nejsmutnějším bojem ve Felixově životě“ (ř. 3117).
+  - Pochybuje, zda Hamnir nemusel zemřít (ř. 2964, 3079–3080). **Pravdu zná jen on a Gotrek.**
+  - Tíží ho lež Gorrilovi („Což byla koneckonců pravda“, ř. 3097).
+  - Slova, která si s Gotrekem řekli pod Spáčovým vlivem, nikdo neodvolal (ř. 2988–2997).
+  - Myslí na rodinu a domov (Otto, Nuln) a na Maxe, Heinze, Snorriho a Ulriku (ř. 3118–3119). Původně chtěl do Nulnu (ř. 159, 167).
+- **Výbava:** Karaghul, dýka, šupinová koženice, poškozený červený plášť, deník, lékárnička. Osud Teclisova amuletu neznámý (viz 2.4).
+- **Kde:** Průsmyk černého ohně na cestě na sever, ve smíšené žoldnéřské výpravě (K8 ř. 3115).
+
+### 2.11 Typické Felixovy repliky
+1. „Nejsem profesor, jsem básník.“ (K1 ř. 76)
+2. „Proč mi každý, koho tu potkám, nabízí, že mi udělí lekci slušného chování?“ (K1 ř. 1415)
+3. „Ať se propadnu, jestli to vím.“ (K1 ř. 1851)
+4. „Četl jsi příliš mnoho melodramat Detlefa Siercka, Alberichte. Ve skutečném životě takhle nikdo nemluví.“ (K1 ř. 2248)
+5. „Jmenuji se Felix Jaeger. Jsem ten, kdo tě zabije.“ (K2 ř. 534)
+6. „Neboj se. Jsem si jist, že tě čeká někde jinde!“ (K3 ř. 2103)
+7. „Postav se do fronty.“ (K4 ř. 1294)
+8. „Strach mě nutí bojovat dobře.“ (K5 ř. 1613)
+9. „Kočky a psi, elfové a trpaslíci, lidé a Bretonci.“ (K7 ř. 881)
+10. „O takové smrti? Přemožen bandou smrkáčů.“ (K7 ř. 2060)
+11. „To nechtěj vědět.“ (K7 ř. 2182)
+12. „Já jsem ho jenom urazil. Ty jsi ho zabil.“ (K8 ř. 2997)
+
+---
+
+## 3. DYNAMIKA GOTREK–FELIX
+
+### 3.1 Jak spolu mluví
+- **Asymetrie oslovení:** Gotrek téměř vždy říká „človíčku“, jménem ho osloví jen výjimečně, například v amnézii („Pojď, Felixi“, K1 ř. 1412). Felix říká „Gotreku“, ironicky „Herr trolobijce“ (K1 ř. 178) nebo „hrdino“ (K1 ř. 1397). Trpaslíci Felixovi vykají a říkají mu „Herr Jaeger“. Gotrek o Felixovi mluví ve třetí osobě („Človíček má pravdu“, K5 ř. 1896; „Človíček se mnou bojuje už řadu let“, K8 ř. 1001).
+- **Gotrekův repertoár vůči Felixovi** (Felixova slova z K8 ř. 1644 a 2992): „tudy, človíčku“, „jdeme, človíčku“, „nech to být, človíčku“, „Kušuj, človíčku“, „Z cesty, človíčku“, „Vezmi vaky, človíčku“.
+- **Felixův repertoár vůči Gotrekovi** (Gotrekova parodie, K8 ř. 2991): „To není moudré, Gotreku“, „Možná bychom to neměli dělat, Gotreku“.
+
+### 3.2 Opakované vzorce
+1. **Felix pochybuje a Gotrek se vrhne do boje.** Felix nakonec jde stejně („přísaha je přísaha“, K1 ř. 118).
+2. **Gotrek se po boji zklamaně diví, že žije** („Zdá se, že se mi záhuba zase vyhnula“ – „Jsem si jist, že tě čeká někde jinde!“, K3 ř. 2102–2103). Gotrek se tváří „skoro zklamaně“, že je Felix naživu (K2 ř. 1690).
+3. **Felix vymyslí plán a Gotrek ho provede silou** (loďka a dopisy v K2, vozík v K8, kniha básní v K8).
+4. **Vzájemné záchrany:**
+   - Gotrek Felixe: zpod kopyt jízdy (K1), z propadlé podlahy na Drakenhofu (K6 ř. 2277), z démonické bubliny ve Stezkách (K7).
+   - Felix Gotreka: trol a olej s lucernou (K1 ř. 1154), Kladivo osudu (K3), bezvědomí v Praag (K5), gobliní hromada v Albionu (K7 ř. 2059).
+5. **„Co tě zdrželo, človíčku?“** (K1 ř. 747; K7 ř. 2181). Ozvěna, která rámuje Kingovu sérii, od začátku do konce.
+6. **Spor o smrt jako příběh:** Gotrek chce smrt hodnou eposu a Felix zastává život. „Takže jsi přišel napsat o mé smrti.“ – „O takové smrti? Přemožen bandou smrkáčů“ (K7 ř. 2059–2060). Felix tu Gotrekovu touhu umí využít, aby ho zachránil. Funguje to v K3 ř. 1459, K5 ř. 1728–1729 i K7.
+7. **Gotrek chrání Felixe před ostatními trpaslíky** („To by stačilo, Kladivoruko“, K8 ř. 731), ale sám ho uráží.
+
+### 3.3 Co je drží pohromadě
+- **Formálně** pokrevní bratrství a přísaha pamětníka (K1 ř. 172–173). Pro Gotreka je přísaha absolutní, pro Felixe čestná povinnost.
+- **Ve skutečnosti:**
+  - Felix potřebuje „záminku“ k životu, který by jinak nevedl (K1 ř. 1850);
+  - Gotrek potřebuje svědka, aby jeho smrt nebyla anonymní (K4 ř. 956; K5 ř. 1366);
+  - společně přežité ztráty (Kirsten, Varek, Ulli a Bjorni, Ivan, Ulrika, Hamnir);
+  - čtvrtstoletí společného života, v němž oba ztratili domov.
+- **Nevyslovená náklonnost:** Gotrek ji projeví činy, ne slovy. V K7 se kvůli Felixovi zaváže elfovi (ř. 1092). Felixovy vzpomínky na Gotreka jsou plné úcty a lítosti (K8 ř. 1652).
+
+### 3.4 Nevyslovené věci mezi nimi (dramatická munice pro K9)
+1. **Slova pod Spáčovým vlivem** (K8 ř. 2988–2997): „slaboch“, „ukňouraný budižkničemu“, slib „v opilosti“, „nikdy jsi mi nepoděkoval“, „proč jsem si nevybral Hamnira“, „Ty jsi ho zabil“. Gotrek pak řekl „Věděl jsem, že se sehneš“, což je projev důvěry i chladného využití zároveň. **Nikdo nic neodvolal.**
+2. **Hamnir:** Felix pochybuje, Gotrek nepřipouští diskusi („Nevracel se!“, ř. 3078). Oba nesou společnou lež.
+3. **„To není všechno, co jsi slíbil“** (K1 ř. 141). Druhá polovina přísahy nebyla nikdy vyslovena.
+4. **Gotrekův zločin:** Felix se zeptal jedinkrát (K1 ř. 178–185) a od té doby mlčí.
+5. **Gotrek Felixovi nikdy nepoděkoval** (K8 ř. 2992). Nejblíž díku je „Poděkuj sám sobě“ (K8 ř. 2879) a uznání v K1 ř. 761.
+6. **Felix nikdy neřekl, že Gotreka má rád.** Ví to až od K1 ř. 1850 a K7 ř. 1350.
+7. **Teclisův amulet:** Felix neví, že by ho mohl obrátit proti Gotrekovi (K7 ř. 808).
+
+### 3.5 Jak by se vztah mohl uzavřít (principy, ne děj) [výklad]
+- **Odvolat Spáčova slova bez sentimentality.** Jedna věta od Gotreka, která není „díky“, ale znamená ho. Ideálně ozvěna z K1 („Ještě z tebe uděláme trolobijce, človíčku“) nebo „Co tě zdrželo, človíčku?“ v novém významu.
+- **Felix musí být u toho.** Gotrekova smrt bez pamětníka by byla přesně ta anonymní smrt, které se bojí (K5 ř. 1366). Felixova přítomnost naplní přísahu.
+- **Felix musí přežít a psát** (epigraf K8: 2527). Jeho poslední úkol je donést zprávu a dohlédnout na **vyrytí Gotrekova jména do sloupu přísahy** v Karak Kadrinu (K4 ř. 954–956).
+- **Pravda, nebo legenda?** Felix v K8 lhal pro Gotreka. Finále může Felixovi dát volbu, zda epos napíše „úžasnou lží“ (K6 ř. 1580), nebo pravdou. Je to vrchol jeho oblouku.
+- **Vyrovnání rovnice z K8:** Felix v K8 slouží jako návnada, ve finále může být Gotrek ten, kdo se pro Felixe „sehne“ (obrácený motiv z ř. 3069).
+
+---

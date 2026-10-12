@@ -8,7 +8,7 @@
 
 - **Autor:** William King
 - **Originální název:** *Vampireslayer* (v textu jen český titul „Zabíječ upírů“, ř. 3)
-- **Pořadí v sérii:** 6. díl. Navazuje přímo na obléhání Praag (Arek Srdce démona je mrtvý, Duch Grungniho rozbil obléhání, ř. 551). Podle obecné znalosti série jde o díl *Beastslayer* (mimo text knihy).
+- **Pořadí v sérii:** 6. díl. Navazuje přímo na obléhání Praag (Arek Srdce démona je mrtvý, Duch Grungniho rozbil obléhání, ř. 551). Podle obecné znalosti série jde o díl *Vampireslayer* (mimo text knihy).
 - **Rámec:** Kniha se vydává za Felixovu kroniku. Úryvky „z knihy *Mé cesty s Gotrekem, svazek IV.*, Herr Felix Jaeger (Altdorf Press, 2505)“ (ř. 542–545, 16) slouží jako motta jednotlivých knih. **Rok 2505 je rok vydání Felixovy knihy, ne rok děje.**
 - **Vypravěč:** třetí osoba, střídá se víc pohledových postav (viz oddíl 8).
 

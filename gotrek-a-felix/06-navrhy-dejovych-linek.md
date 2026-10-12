@@ -4,17 +4,19 @@ Výchozí bod je stejný pro všech pět variant. Je to poslední scéna knihy *
 
 Každá linka staví na jiných nevyřešených nitkách z osmi dílů (podrobně viz `05-otevrene-linky-a-vychozi-stav.md` a dossier v `podklady/`). Linky se dají kombinovat, doporučení je na konci.
 
+**Pevné body pro všechny varianty:** Felix musí přežít, protože díl VII jeho pamětí vyšel roku 2527 (kn. 8, ř. 41). Kanonické pokračování *Manslayer* (mimo naše podklady) vede G&F přes Nuln s Malakaiem a Ulrikou k Middenheimu. Naše linky se od něj vědomě odchylují, i když linky 4 a 5 s ním sdílejí některé postavy a místa.
+
 Pracovní název závěrečného dílu: **Zabíječ … (9. a poslední díl)**. Název se odvodí od zvolené linky.
 
 ---
 
 ## Linka 1: „Zabíječ démonů podruhé“ – Krvavá lázeň u Fauschlagu
 
-**Logline:** Gotrek hledá u Middenheimu smrt, která by smyla Hamnirovu krev. Najde tam démona, který ho hledá už dvacet let.
+**Logline:** Gotrek hledá u Middenheimu smrt, která by smyla Hamnirovu krev. Najde tam démona, který ho hledá skoro dvacet let.
 
 **Na čem stojí:**
 - Krvežíznivec z Karag Dumu nebyl zničen, jen vyhnán. Přísahal věčnou pomstu Gotrekovi i Felixovi, „jejich potomkům a dědicům“. Je spjatý se sekerou a vycítí ji kdekoli (kn. 3, ř. 2003, 2067; kn. 4, ř. 590).
-- Felixova vize ve Stezkách Prastarých: Gotrek proti okřídlenému démonovi na hořící hoře (kn. 7, ř. 536).
+- Felixova vize ve Stezkách Prastarých: Gotrek proti okřídlenému démonovi na hořící hoře (kn. 7, ř. 536). Pozor: démon z vize je „kříženec člověka a elfa“, což neodpovídá Krvežíznivci z kn. 3. Buď jde o jiného démona, nebo vize klame. Obojí se dá dramaticky využít, třeba tak, že Felix až do finále čeká jiného nepřítele.
 - Duch trpasličí královny Gotrekovi věštil: „Tvoje prokletí je mnohem větší a čas jeho naplnění se blíží“ (kn. 1, ř. 1182).
 - V Síni předků Gotreka nepustili dovnitř, protože „se neočistil v bitvě“ (kn. 5, ř. 1788).
 - Bouře Chaosu: obležení Middenheimu, skála Fauschlag. Fauschlag je hořící hora z vize.
@@ -65,13 +67,13 @@ Pracovní název závěrečného dílu: **Zabíječ … (9. a poslední díl)**.
 
 ## Linka 3: „Zabíječ bohů“ – Stezky Prastarých a Polární brána
 
-**Logline:** Pečeť, kterou Teclis koupil Murdovou krví, vydržela dvacet let. Teď praská a sekera z hvězdného kovu konečně ukáže, k čemu byla ukována.
+**Logline:** Pečeť, kterou Teclis koupil Murdovou krví, vydržela sedmnáct let. Teď praská a sekera z hvězdného kovu konečně ukáže, k čemu byla ukována.
 
 **Na čem stojí:**
-- **Stezky Prastarých byly zapečetěny jen na 10–20 let** (kn. 7, ř. 2149, 2191). Mezi 7. a 8. dílem uplynulo zhruba 20 let. Časovaná bomba právě vybuchuje.
+- **Stezky Prastarých byly zapečetěny jen na 10–20 let** (kn. 7, ř. 2149, 2191). Mezi 7. a 8. dílem uplynulo asi 17 let (kn. 8 mluví o „téměř dvou desetiletích“ putování na Východě), takže pečeť je právě na hraně. Časovaná bomba vybuchuje.
 - Prastarý duch temnoty, kterého Stezky poutaly, se uvolňuje (kn. 7, ř. 1567–1571). Polární brána je „otevřená rána“ (kn. 7, ř. 2165).
 - „Mistři“ dvojčat Kelmaina a Lhoigora zůstávají neznámí (kn. 7, ř. 166, 1714). Gotrek si všiml, že stavby připomínají **zikkuraty trpaslíků Chaosu** (kn. 7, ř. 1817).
-- **Teclisův amulet** tajně zajišťuje Felixovu loajalitu, „ať už dobrovolně, nebo nedobrovolně“ (kn. 7, ř. 808). Felix to neví.
+- **Teclisův amulet** tajně zajišťuje Felixovu loajalitu, „ať už dobrovolně, nebo nedobrovolně“ (kn. 7, ř. 808). Felix to neví. V kn. 8 se amulet vůbec nezmiňuje, takže musíme rozhodnout, že ho Felix stále nosí.
 - Sekera: kovář Valek, hvězdný kov, „prokletí bohů“ (kn. 1, ř. 1973). Teclis zjistil, že sekera Gotreka mění (kn. 7, ř. 522, 575, 1368). Dvojčata považovala Gotreka za nevědomého vyvoleného „nepřátelských Sil“ (kn. 5, ř. 379).
 - Karag Dum je stále v rukou Chaosu a jeho kovárny vyrábějí zbraně pro Archaona (kn. 3, ř. 1882–1886).
 - Mimo text knih: kanonický mýtus o Grimnirovi, který odešel do Pustin Chaosu uzavřít severní bránu a nevrátil se.
@@ -92,14 +94,14 @@ Pracovní název závěrečného dílu: **Zabíječ … (9. a poslední díl)**.
 
 ## Linka 4: „Zabíječ upírů podruhé“ – Bledý král
 
-**Logline:** Zatímco celé Impérium hledí na sever, z mlh Sylvánie vyráží armáda mrtvých. Jediná, kdo varuje Felixe, je žena, kterou kdysi miloval a která už dvacet let nedýchá.
+**Logline:** Zatímco celé Impérium hledí na sever, z mlh Sylvánie vyráží armáda mrtvých. Jediná, kdo varuje Felixe, je žena, kterou kdysi miloval a která už skoro dvacet let nedýchá.
 
 **Na čem stojí:**
 - **Ulrika je upírka**, žačka hraběnky Gabrielly (kn. 6). Gotrek přísahal, že si obě najde, pokud budou ubližovat (kn. 6, ř. 2645). Felixova otázka v kn. 8, ř. 3119, zní: „Pokud žije, za kterou stranu bojuje?“
 - Kriegerova kopie *Nosferatových proroctví* o Čase krve a Bledém králi zůstala na Drakenhofu (kn. 6, ř. 1470). Proroctví „může naplnit někdo jiný“.
 - Felixova vize: **Mannfred von Carstein** a záchrana dívky na sylvánském hradě (kn. 7, ř. 536).
 - **Max a Nagaš:** Max nese stopu po Nagašově pasti z Oka Khemri (kn. 6). Gotrek kdysi navštívil Zemi mrtvých a odmítá říct proč (kn. 6, ř. 951–955).
-- **Max a Snorri** zůstali před 20 lety v bezvědomí u portálové mohyly v Sylvánii (kn. 7, ř. 370). Jejich osud je neznámý.
+- **Max a Snorri** zůstali před zhruba 17 lety v bezvědomí u portálové mohyly v Sylvánii (kn. 7, ř. 370). Jejich osud je neznámý.
 - Mimo text knih: kanonicky Mannfred během Bouře Chaosu skutečně vytáhl ze Sylvánie.
 
 **Děj ve třech dějstvích:**
@@ -118,7 +120,7 @@ Pracovní název závěrečného dílu: **Zabíječ … (9. a poslední díl)**.
 
 ## Linka 5: „Zabíječ krys“ – Poslední spiknutí šedého věštce
 
-**Logline:** Felix chce jen domů do Nulnu, zjistit, jestli mu žije otec, a vydat paměti. Jenže pod Nulnem čeká krysa, která na tuhle chvíli dvacet let plánovala, a stará věštba, jejíž konec nikdo neslyšel.
+**Logline:** Felix chce jen domů do Nulnu, zjistit, jestli mu žije otec, a vydat paměti. Jenže pod Nulnem čeká krysa, která na tuhle chvíli skoro dvacet let plánovala, a stará věštba, jejíž konec nikdo neslyšel.
 
 **Na čem stojí:**
 - **Thanquol žije** a jeho přísaha pomsty platí (kn. 2, 4, 5). Mimo Lurka měl i kouli čistého chaotitu.
@@ -130,7 +132,7 @@ Pracovní název závěrečného dílu: **Zabíječ … (9. a poslední díl)**.
 
 **Děj ve třech dějstvích:**
 1. **Návrat domů.** Felix přesvědčí Gotreka, že nejkratší cesta na sever vede přes Nuln a jeho pušky a děla, které je potřeba dostat k Middenheimu. Doma je otec umírající, Otto tlustý a opatrný a v tiskárně leží neprodané výtisky Felixových pamětí. Ostwald z Řádu Kladiva Felixe okamžitě naverbuje.
-2. **Pod městem.** Thanquol v kanálech Nulnu staví svůj mistrovský plán. Využije toho, že Impérium je oslabené válkou, a chaotitovým dělem nebo morem zničí dělostřeleckou školu a slévárny, aby Middenheim padl. Stokaři, okapoví běžci a hospoda U Slepého prasete jsou návrat na místa kn. 2, jen o dvacet let starší. Lurk mezitím jedná na vlastní pěst.
+2. **Pod městem.** Thanquol v kanálech Nulnu staví svůj mistrovský plán. Využije toho, že Impérium je oslabené válkou, a chaotitovým dělem nebo morem zničí dělostřeleckou školu a slévárny, aby Middenheim padl. Stokaři, okapoví běžci a hospoda U Slepého prasete jsou návrat na místa kn. 2, jen o dvě desetiletí starší. Lurk mezitím jedná na vlastní pěst.
 3. **Konec věštby.** Ve finále Thanquol konečně drží Gotreka i Felixe v hrsti. Pak se ukáže celé znění věštby a vtip: kdyby je zabil, zabil by i sám sebe nebo vlastní osud. Thanquol musí zachránit své nepřátele. Gotrek v kanálech pod Nulnem najde smrt, nebo ji zase nenajde.
 
 **Možné konce:**
