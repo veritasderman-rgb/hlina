@@ -341,7 +341,7 @@ Tři knihy s Kingovým rámcem. Každou otevírá úryvek z Felixových pamětí
 
 - **Thanquol:** věštba Pána věštců (K2 ř. 685) a přísaha pomsty, uzavřeno v kap. 1, 2 a 9.
 - **Lurk:** uzavřeno v kap. 2.
-- **Hamnir:** lež, Birri, zášť Kamenokupců a Železných kůží, Narinova tříska. Kap. 3, 7, 9, 24.
+- **Hamnir:** lež, Birri, zášť Kamenokupců a Železných kůží, Narinova tříska. Kap. 3, 5, 6, 16.
 - **Gotrekův zločin:** Arekova vize (K5) a „bratrovrah“ (K1 ř. 180). Odhalen jen v útržcích v kap. 5, 15, 18 a v epilogu.
 - **Sloup přísahy** (K4 ř. 950–956): kap. 4 a epilog.
 - **Síň předků**, kam Gotreka nepustili, protože „se neočistil v bitvě“ (K5 ř. 1788): kap. 19.
@@ -381,6 +381,8 @@ Rozbor v `08-neuzavrene-linky.md` navrhl a do osnovy jsme zapracovali:
 
 Epilog má sesbírat drobné dluhy (Alrik, Gorril, Shallya, Karaghul, rodina). Nitky světa zůstanou záměrně otevřené v posledním úryvku pamětí.
 
-## 8. Další krok
+## 8. Stav psaní
 
-Po odsouhlasení osnovy napíšeme **kapitoly JEDNA a DVĚ** jako zkušební text: navázání na konec K8, Thanquolovu codu a jeho smrt. Podle nich doladíme hlas, tempo a poměr Kinga a Longa. Pak můžeme psát dál po knihách.
+- Hotovo: úvod, JEDNA, DVĚ (přepsány do bohaté češtiny), TŘI.
+- Další na řadě: ČTYŘI (Skarnův pohled a Karak Kadrin).
+- Po každé kapitole aktualizovat `text/denik-kontinuity.md`.

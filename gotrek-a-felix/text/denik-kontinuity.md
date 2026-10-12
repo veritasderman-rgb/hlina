@@ -68,3 +68,32 @@ Průběžně doplňovaná fakta, která text ustanovil. Před psaním každé da
 - **Skarn ve věšteckém kameni:** starší trolobijce s dlouhým šedým vousem spleteným do copů. Na řetězu přes rameno má navlečené desítky useknutých oranžových hřebenů. Podíval se do kamene a **usmál se**. Rudé hřebeny mají na prsou vypálené ne-trpasličí runy a sedí ve zborceném trpasličím sále se zřícenou klenbou.
 - **Kirgi Narinsson:** barvy Železných kůží jsou tmavě hnědá s bílou. Zná pravdu: „kterého jsi zabil vlastní rukou, když ležel bezbranný na zemi… o jejichž smrti nám bylo lháno“. Na Felixe se podívá „jako rampouchem“.
 - **Narin:** v textu je „syn téna“, „Narin Blowhardsson“, umíral Gotrekovi v náručí a třísku z Druttiho štítu nosil zapletenou ve vousech.
+
+## Stav po kapitole TŘI
+
+**Čas a místo:** od rána po bitvě v průsmyku asi 10 „dní“ (podle odhadu) v undgrinu směrem na sever. Několikrát museli kvůli zasypaným úsekům ven na hřebeny Hor na konci světa. Vchod do undgrinu je v **Kamenném jazyku**, skalním výběžku 2 míle severně od kotliny, kde podle Bardina stál Sigmar. Brána má oblouk s vytesanými tvářemi předků. Lampy svítí studeným modrým kamenem a nepotřebují vzduch.
+
+**Kirgiho družina (asi 20 trpaslíků)**
+- **Kirgi Narinsson:** bílý vous „jako zasněžené pole“, modré oči, válečné kladivo za opaskem. Má **Narinovu třísku** a v noci ji otáčí v prstech. Přiznal: „Já ho poslal.“ Narinova žena se jmenuje **Hildi**, je dcerou Kirgiho starého přítele a „má ruku jako kovářské kladivo“. Svatbu vynutil Kirgi.
+- **Thrund Brodigsson** (Kamenokupci): synovec Ulfgarta Haginskarla, **bratr Drurika**, bratranec Galina. Černý vous, krátké vlasy. Uráží lidi, ale na Gotreka si netroufne. Jako první vyslovil „**Bratrovrah**“.
+- **Orri Šedovous:** strážce knihy zášti Železných kůží, asi 700 let, bílý vous ke kolenům se stříbrnými sponami, brýle silné jako dno láhve, plášť z medvědí kůže. Kniha je v kůži, okovaná, se železným zámkem. Když přemýšlí, leští si brýle cípem vousu. **Zákon:** zášť proti trolobijci lze rozsoudit jen u Grimnirovy svatyně v Karak Kadrinu, před králem trolobijců a sloupem přísahy, „jinak je to jen vražda“. Orri ví, že „v jednom údolí na severu se kdysi stalo něco, o čem se nemluví“, a že existuje stránka, kterou si strážci knih předávají a nikdo ji nečte nahlas.
+
+**Ustaveno**
+- **Birri Birrisson** vylezl 5 dní po odchodu G&F ze stoky pod dolní branou Karak Hirnu. Z postranní chodby viděl celé zabití Hamnira a vypověděl to Gorrilovi.
+- **Gorrilův dopis Felixovi** (podpis „Gorril, syn Grimův“): „Trpaslík chce pravdu, i kdyby ho měla zabít. Lež je pro nás horší než rána. Rána se zahojí… Nevím, jestli tě mám nenávidět, nebo litovat. Ještě jsem se nerozhodl.“ Felix ho nosí v kabátci.
+- **Zášť** formálně vyhlásili Kirgi (za Narina, Hamnira a lež) a Thrund jménem Kamenokupců (za Drurika a Galina). Gotrek odpověděl: „**Přijímám. Obě.**“ Kirgi „nebude bojovat s kulhajícím“.
+- Gotrek předal třísku a Narinův vzkaz doslova podle K8. U lampy pak vyprávěl Narinovu smrt celou. **Hamnira „řekne před Grimnirem. Jednou. Ne dvakrát.“**
+- Felix si vybavil, že **Gotrekovo jméno chybí na sloupu přísahy** (Borek v K4).
+
+**Rozloučení**
+- Varzi a Estaliánci jdou po silnici na Middenheim. Baltasar Felixovi požehnal: „ať tvůj pán najde, co hledá.“
+- **Kuno** jde také do Middenheimu: „Kdybys mě potřeboval, budu v Middenheimu.“ Jeho rada: „Visí stejně… Trap se tím, co s tebou udělají.“ Je to možný návrat v kap. 14.
+- **Bardin** a trpaslíci z Karak Izoru jdou se Starou kovadlinou po silnici. Uklonili se Gotrekovi. Gotrek jim popřál: „Ať tvé dělo nikdy nevybuchne, kanonýre.“
+
+**Grimnirův kámen (svatyně v undgrinu)**
+- Je to výklenek s oltářem a sochou Grimnira se dvěma sekerami. Rudí sochu znesvětili a obě sekery jí urazili.
+- Leží tam **5 mrtvých trolobijců** v řadě, s rukama na hrudi a s useknutými hřebeny i s kůží. Na hrudi mají vyřezanou **Khornovu runu** (tři čáry sbíhající se do bodu a zase se rozbíhající, „jako lebka nebo sekera“). Na oltáři je louže krve. Stopy jsou od **trpasličích bot** a rány od trpasličích seker („jeden úder, rovně, čistě“).
+- Orri je pojmenoval přibližně: jeden z Karak Kadrinu, jeden z Karak Varnu, dva bratři z Karaz-a-Karaku a jeden ze Zhufbaru. Jména vyryl vedle oltáře.
+- Gotrek vložil úlomek uražené sekery zpět do kamenné ruky sochy.
+
+**Kliffhanger:** v noci Felix slyšel v chodbě cinkání řetězu, nejspíš **Skarnova řetězu s hřebeny**, ale neřekl to nikomu. Ráno našli černou trpasličí dýku, na ní **čerstvý oranžový hřeben** s kůží a kolem ní **stránku vytrženou z velmi staré knihy zášti** s novým řádkem dopsaným tmavším inkoustem. Gotrek zešedl, stránku zmačkal a dal ji do váčku, kde předtím nosil třísku. Hřeben si vzal. Felix stránku nepřečetl, neumí runy. Orri ji poznal jako stránku z knihy zášti „starší než já“.
