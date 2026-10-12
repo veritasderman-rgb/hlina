@@ -45,3 +45,26 @@ Průběžně doplňovaná fakta, která text ustanovil. Před psaním každé da
 - Velekrál a Sigmar „pili z jednoho rohu“ jako obraz pokrevního bratrství. Shrbená ramena Gotreka.
 - Felixův sen o Hamnirovi se zlatými obojky místo očí: „Píšeš přece divadelní hry, ne?“
 - Felix vzpomíná na Maxovo vysvětlení únikového kouzla. Je to drobný doplněk, v K4 to výslovně není.
+
+## Doplněno po přepisu kapitol JEDNA a DVĚ (bohatší verze)
+
+- **Estaliánský seržant** se jmenuje **Baltasar** (celé jméno má „nejméně sedm částí“). Má jizvu přes bradu a natáčený knír. Mateo nebyl jediný bratranec, kterého ztratil.
+- **Syn Hraničního knížete:** **Aurelio z Montecorvy**, tmavé kadeře, knírek, stříbrem vykládaná zbroj, péra tří barev na přilbě. „Hlupák, který umí bojovat.“ Mrtev, zlomený vaz.
+- **Kapitán Lodovico Varzi:** podsaditý, výrazný nos a břicho, „chytřejší, než předstírá, línější, než by si přál zaměstnavatel“, jedenáct bratranců. Po ztrátě tří prstů vtipkuje o rukavicích.
+- **Kuno Fassbinder:** asi 25 let, vypadá na dvakrát tolik, klobouk s rozdrbaným pérem (po bitvě z něj zbyla polovina), zloději ucho nastřižené do „vlaštovčího ocasu“ za druhé chycení. Rád vypráví pověst o Sigmarovi v průsmyku.
+- **Trpaslíci z Karak Izoru:** velitel **Bardin** (prošedivělý hnědý vous, nos jako brambora) a nejmladší **Dorn** (zrzavý vous do dvou copánků). Bardin tvrdí, že bitva byla „o dvě míle dál, u Kamenného jazyka, a v létě“. Věž je podle něj z časů krále Kurgana. Brugovi postavili mohylu a pomodlili se ke Grungnimu, „aby ogrovi v síních předků připravili dost jídla“.
+- **Ogr Brug** nabídl Felixovi kozí nohu („Dobré. Křupavé.“). Jednou prý snědl botu.
+- **Felix:**
+  - Rodinná tiskárna patří otci a podnik nejspíš vede bratr Otto.
+  - Dva deníky z Východu poslal z Barak Varru do Altdorfu.
+  - **Semínko pro kap. 17:** Felixovi proběhne hlavou Gotrekova věta z K1 *„To není všechno, co jsi slíbil“* (doloženo K1 ř. 141). Neví, co tím myslel, a za dvacet let se nezeptal.
+  - Šermovat ho kdysi učil starý šermířský mistr v Altdorfu („každý obr stojí na stejných šlachách“).
+  - **Max** mu kdysi u ohně vysvětloval skavenské únikové kouzlo jako „kouzlo zbabělců“, na pár set kroků. Je to fan doplněk.
+- **Thanquol (doplněk):**
+  - Roh si ulomil v dolech: nízký strop, útěk a „velmi nevychovaný obr“.
+  - Vymyslel si citát „Utrpení brousí génia“ a připisuje ho skavenskému filozofovi.
+  - Plánoval paměti „Vzestup génia, aneb jak šedý věštec Thanquol přelstil osud“.
+  - **Vrisk** má mosaznou čočku na oku a nejspíš ho vyhodili z klanu kvůli výbuchu. Během bitvy uprchl i s krystalem.
+- **Skarn ve věšteckém kameni:** starší trolobijce s dlouhým šedým vousem spleteným do copů. Na řetězu přes rameno má navlečené desítky useknutých oranžových hřebenů. Podíval se do kamene a **usmál se**. Rudé hřebeny mají na prsou vypálené ne-trpasličí runy a sedí ve zborceném trpasličím sále se zřícenou klenbou.
+- **Kirgi Narinsson:** barvy Železných kůží jsou tmavě hnědá s bílou. Zná pravdu: „kterého jsi zabil vlastní rukou, když ležel bezbranný na zemi… o jejichž smrti nám bylo lháno“. Na Felixe se podívá „jako rampouchem“.
+- **Narin:** v textu je „syn téna“, „Narin Blowhardsson“, umíral Gotrekovi v náručí a třísku z Druttiho štítu nosil zapletenou ve vousech.

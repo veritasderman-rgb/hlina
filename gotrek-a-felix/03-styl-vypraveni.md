@@ -7,6 +7,21 @@
 
 ---
 
+> ## ⚠️ ZÁVAZNÁ REVIZE HLASU (rozhodnutí autora po zkušebních kapitolách)
+>
+> První verze kapitol JEDNA a DVĚ byly napsány úsečně, v jednovětých odstavcích podle Longova anglického rytmu. Autor je odmítl: „bez kontextu se to skoro nedá číst… k češtině se to nehodí, ta je bohatá a košatá a má i parazitní slovíčka“. **Od této chvíle platí tato pravidla a mají přednost před doporučeními níže (zejména před částmi o Longově stylu, krátkých odstavcích a jednovětých pointách):**
+>
+> 1. **Souvětí, ne telegram.** Vyprávění stojí na delších, větvených souvětích s vedlejšími větami, vsuvkami a dovětky. Krátká věta nebo jednovětý odstavec je **koření**: nanejvýš pár na kapitolu, a jen tam, kde má opravdu udeřit.
+> 2. **Odstavce mají dech.** Ve vyprávění 60–150 slov, v popisu a vzpomínkách klidně víc. Dialog samozřejmě po replikách.
+> 3. **Vypravěč s hlasem.** Er-forma těsně u Felixe, ale vypravěč si smí povídat, glosovat, vracet se a ironizovat. Patří k němu přirozená česká **vycpávková a modální slova**: *ostatně, totiž, přece, vlastně, beztak, koneckonců, inu, nejspíš, kdoví, pochopitelně, abych pravdu řekl, upřímně řečeno, jak už to bývá*. Dávkovat tak, aby text zněl jako vyprávění u ohně, ne jako protokol.
+> 4. **Kontext vždy vpletený.** Kdo je kdo, co se stalo v minulých dílech, proč postava jedná, jak jedná: čtenář to musí vědět, i když předchozí díly nečetl. Kontext vplétat přes Felixovy vzpomínky, přes rozhovory a krátké vypravěčské odbočky. Nikdy ne jako encyklopedický odstavec, vždy s emocí nebo detailem.
+> 5. **Postavy mluví jako lidé.** Repliky s *no, však, přece, hm, inu, tak*, nedokončené věty, skákání do řeči, škádlení. Vedlejší postavy (žoldnéři, trpaslíci) dostávají prostor na hovor a humor.
+> 6. **Smyslový svět.** Pachy, zvuky, zima, bolest kolen, chuť jídla, materiály. Konkrétní detail, ne obecné „bylo to strašné“.
+> 7. **Délka kapitoly** je zhruba **7–9 tisíc slov** (kapitola JEDNA 8 700, DVĚ 7 900). Kniha se tím prodlužuje. Viz poznámka o rozsahu v osnově.
+> 8. Pořád platí: terminologie českého vydání (trolobijce, človíčku, chaotit…), Gotrek není pohledová postava, žádné moderní výrazy, kletby rodové.
+>
+> **Vzorem jsou přepracované kapitoly JEDNA a DVĚ v `text/`.** Ukázka v oddílu 12 této příručky je napsaná ve staré, úsečné poloze a jako vzor už **neplatí**.
+
 ## 0. Přehled dílů a překladů
 
 | # | Český titul (originál) | Autor | Forma | Rámec „Mé cesty s Gotrekem“ | Překlad (podle tiráže v souboru) |
