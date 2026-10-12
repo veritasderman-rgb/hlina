@@ -424,3 +424,486 @@
 - **Vyrovnání rovnice z K8:** Felix v K8 slouží jako návnada, ve finále může být Gotrek ten, kdo se pro Felixe „sehne“ (obrácený motiv z ř. 3069).
 
 ---
+## 4. VEDLEJŠÍ POSTAVY
+
+> **Hodnocení potenciálu pro návrat (1–5):** 5 = silně doporučeno, téměř nutné pro uzavření oblouků. 4 = velmi vhodné. 3 = vhodné jako epizoda nebo zmínka. 2 = jen připomínka, vzpomínka nebo dopis. 1 = nechat být.
+> **Pozor na dvacetiletou mezeru:** všichni lidé z K1–K7 jsou o 17–20 let starší (trpaslíci a upíři prakticky beze změny) a G&F o nich nic nevědí (K8 ř. 3118).
+
+### 4.1 Snorri Nosohryz – potenciál **5**
+- **Výskyt:** K3–K7. Zmínky v K8 ř. 1647, 2163, 3118.
+- **Role:** trolobijce, Gotrekův nejstarší druh. Byl s ním na první Borekově výpravě do Pustin (K3 ř. 78, 539).
+- **Vzhled:** větší a svalnatější než Gotrek. Oholená hlava, krátce zastřižené vousy a místo hřebenu **pestrobarevné hřebíky zatlučené do lebky** (K3 ř. 35; v K4 a K5 „tři cvočky“). Mnohokrát zlomený nos, pravé ucho jako karfiol, levé chybí. Zlatý kruh v nose, tetování a jizvy.
+- **Zbraně:** kladivo a sekera s krátkým topůrkem. Krvežíznivec mu je rozštípl (K3 ř. 2034), Arek zničil i druhou sadu. Od K5 nosí **Bjorniho sekeru** (K5 ř. 2032).
+- **Povaha a mluva:** mluví o sobě ve třetí osobě („Snorri si myslí…“) a obecnou češtinou („Snorri pude taky“, „Tak ho dem zabít, ne?“, „Dobrej boj“). Felixe oslovuje „mladý Felixi“ nebo „mladíku“. Je prostý, veselý a nebojácný („Snorri se nebojí. Moc.“, K3 ř. 1981; strach „potřebuje mozek“, K5 ř. 1097). Neumí číst a počítá jen do pěti (K3 ř. 403). Pije vodku z vědra.
+- **Tajemství:** „Žena, děti, malé, všichni mrtví… Byl zodpovědný za jejich smrt?… Byl i tehdy opilý? Ano, byl“ (K4 ř. 669–676). **Kdysi věděl, proč si Gotrek oholil hlavu, ale zapomněl** (K4 ř. 674).
+- **Hrdinství:** zabil Kriegera pádem lustru (K6 ř. 2630). Neví, že hraběnka Gabriella byla upírka (K6 ř. 1805).
+- **Dluhy:** dluží Felixovi zlaťák „až se vrátíme z pustin“ (K3 ř. 1058–1060). Gotrek mu dluží pivo (K5 ř. 1796).
+- **Poslední známý stav:** v bezvědomí s Maxem u portálové mohyly v Sylvánii (K7 ř. 366–370). Od té doby nic, tedy **20 let neznámo**.
+- **Proč vrátit:** Felixova vize v K7 ř. 536 ukazuje jeho pád „v bitvě s orky… oplakáván všemi trolobijci“, což lze naplnit nebo vědomě zvrátit. Jako jediný živý svědek mohl znát Gotrekovo tajemství (zapomenutá vzpomínka se může vynořit). Pro Gotreka je to emocionální zrcadlo: trolobijce, kterého vina zbavila paměti. Komické odlehčení i tragický kontrapunkt. Splacení drobných dluhů (zlaťák, pivo) je ideální malá katarze.
+
+### 4.2 Max (Maxmilian) Schreiber – potenciál **5**
+- **Výskyt:** K3–K7. Zmínka v K8 ř. 387, 3118.
+- **Vzhled:** vysoký a štíhlý, asi o 10 let starší než Felix (K3 ř. 939), v K9 tedy přes padesát. V K3 nosí purpurový šat se zlatem a kuželovitou helmu. Od K4 tmavé vlasy, bledost učence, kozí bradka, později plnovous (K5 ř. 491). Formální oděv Zlaté fakulty: zlatý plášť, zelený kabátec, žluté kalhoty (K4 ř. 69), později brokát a dubová hůl.
+- **Postavení:** byl vyloučen z Říšské čarodějné univerzity „pro nezdravý zájem o Chaos“ a napsal kacířskou brožuru (K3 ř. 950–970). Teď je **mistr čaroděj Zlaté fakulty a tajný bratr řádu Zlatého kladiva** (K4 ř. 1222). Hlášení posílá do **Ulrikstrasse v Middenheimu** (K4 ř. 1041–1045). Byl rádcem middenheimského kurfiřta (K6 ř. 1083), pak vévody v Praag. Rodinu mu jako dítěti vyvraždili proměnci (K4 ř. 591).
+- **Magie:** zlaté paprsky, ochranné sféry, protikouzla, léčení zlatou a šedou magií, sféra ničení (K6 ř. 2414–2423). Moc mu **roste** (K4 ř. 1764; K5 ř. 158). Za léčení platí vlastní životní silou (K5 ř. 809). Nepije, protože alkohol oslabuje magii (K5 ř. 630).
+- **Temná linka:**
+  - posedlá láska k Ulrice a žárlivost na Felixe, s myšlenkou „pokud se něco nestane Felixi Jaegerovi“ (K4 ř. 533);
+  - zná zakázaná kouzla lásky a ovládání vůle (K4 ř. 655);
+  - rozpozná, že ho pokouší **Slaanesh** a že ho Chaos možná spíš fascinuje (K4 ř. 1257–1266);
+  - Ulričina vášeň k Felixovi zmizela po Maxově léčení, „možná kvůli Maxově magii“ (K5 ř. 1314);
+  - **past Nagaše** v Oku Khemri ho poslala do kómatu. Sám si není jistý, zda mu mysl zůstala nenakažená (K6 ř. 1444–1455).
+- **Mluva:** učená, rád přednáší („Ještě jednou, Maxi, jazykem, kterému bych mohl rozumět“, K5 ř. 1085), suchý vtip („Možná byste neměl používat tolik aliterace“, K5 ř. 1269).
+- **Poslední známý stav:** v bezvědomí v Sylvánii (K7 ř. 370). Felix u něj chtěl uložit rukopis, „pokud je čaroděj dosud naživu“ (K7 ř. 1435).
+- **Proč vrátit:** Archaon obléhá **Middenheim** (K8 ř. 3121), tedy přímo Maxův domov a sídlo jeho řádu. Uzavírá trojúhelník s Ulrikou, nese Nagašovo a Slaaneshovo pokušení a mohl dostat Felixův rukopis. Je to přirozený zprostředkovatel Říše a magie. **Pozor:** Max by neměl být všemocným řešitelem, jeho moc musí něco stát.
+
+### 4.3 Ulrika Magdovna – upírka, žačka Gabrielly – potenciál **5**
+- **Výskyt:** K3–K6. Zmínky v K7 ř. 114 a K8 ř. 387, 3119.
+- **Vzhled:**
+  - jako člověk: skoro tak vysoká jako Felix, **popelavě světlé vlasy ostříhané téměř dohola**, modré oči, vysoké lícní kosti, plné rty, mozoly šermířky. Bílá košile, kožená vesta a kalhoty, jezdecké boty. **Dvě šavle**, jedna s trpasličími runami (K3 ř. 803, 808, 925), později dlouhý kislevský meč a kostěný luk (K4).
+  - jako upírka: zpočátku vidí jen černobíle a ve dne téměř nic (K6 ř. 1889, 1981). Hlas „chladný, vzdálený a nepřátelský“ (K6 ř. 2643).
+- **Původ:** dcera bojara **Ivana Petroviče Stragova**. Překlad jí dává patronymikum „Magdovna“, které k otci nesedí. Je vzdálenou sestřenicí vévody Enrika (K5 ř. 406). Otec ji vychoval „spíše jako syna“ (K4 ř. 1174). Modlí se k Taalovi.
+- **Povaha:** přímá, smělá, ironická a pod tím nejistá (K3 ř. 934). Od 15 let neporažená šermířka, lukostřelkyně a jezdkyně. V boji propadá opojení blízkému khornovskému (K5 ř. 1608). Kislevské rčení: „život je krátký a zima dlouhá“ (K3 ř. 929). Ironie: „Je vždycky pěkné znát jméno krysy, kterou chce člověk zabít“ (K4 ř. 230).
+- **Oblouk:** milenka Felixe (K3–K4). Onemocní morem a Max ji zachrání (dluží mu život, K5 ř. 1316). Vášen k Felixovi vyhasne (K5). Krieger ji promění (K6 ř. 297–299). Zabije Osrika a Oko si ji podrobí (K6 ř. 1902, 1995). Felixe ale nekousne (K6 ř. 2490). Přísahá Kriegerovi věčnou pomstu (K6 ř. 2491), ten je však zničen. Pomůže zlomit Kriegerovo pouto (K6 ř. 2622). **Otec zemřel, když ji šel zabít** (K6 ř. 2604–2608), a ona odnáší jeho tělo k pohřbu (K6 ř. 2640).
+- **Poslední známý stav:** odchází s Gabriellou jako její žačka (K6 ř. 2639–2647). Gotrek pohrozil: „Když ne, najdu si vás obě“ (K6 ř. 2645). Felix v K8: „Pokud žije, za kterou stranu bojuje?“ (ř. 3119).
+- **(mimo text)** V anglické sérii se Ulrika vrací a později dostala vlastní trilogii. Pro náš projekt to není závazné.
+- **Proč vrátit:** nedořešená láska a vina (Felix, Max), Gotrekův slib i výhrůžka. Otázka „za kterou stranu“ je přímo otevřená posledními stránkami K8. Je to důstojný protějšek tématu proměny: Gotrek se mění sekerou, Ulrika krví.
+
+### 4.4 Hraběnka Gabriella – potenciál **4**
+- **Výskyt:** K6. Zmínka v K7 ř. 114.
+- **Vzhled:** černý vdovský závoj, bledost, štíhlost, modré oči, černé (prý barvené) vlasy, líčidla. Voní pižmem a **skořicí**, což je upíří stopa (K6). Působí, že je starší (K6 ř. 90, 1854).
+- **Identita:** vystupuje jako „hraběnka z Nachthafenu“ a ovdovělá švagrová hraběte Rudgara. Je několik století stará upírka a **stvořitelka Kriegera** (K6 ř. 229). Četla Nagašovy knihy a chodila po Zemi mrtvých (K6 ř. 465). Patří k Oživeným, kteří chtějí žít v míru „se svými stády“. Mezi Radou a sylvánskou šlechtou platí dohoda (K6 ř. 432, 442).
+- **Povaha a mluva:** elegantní, chladná, ironická, s mravní šedí. Felix v jejím hlase slyší žárlivost na Ulriku (K6 ř. 2131). Max s ní žije v ostrém příměří („To nebyla výhrůžka. To byl slib.“, K6 ř. 2361).
+- **Síla:** mocnější mág než Krieger, Rochovi utrhla hlavu (K6 ř. 2446). Oko ji dočasně ovládlo.
+- **Osud:** žije a odchází s Ulrikou a Rodrikem (Rudgarův syn, který ji krmí). Ví, že Felix její tajemství prozradil (K6 ř. 1866).
+- **Proč vrátit:** jako Ulričina „matka“ a politický hráč upírů v době, kdy Chaos drtí Říši. Je to šedá spojenkyně, které nelze věřit.
+
+### 4.5 Malakai Makaisson – potenciál **5** (dávkovat opatrně)
+- **Výskyt:** K3–K6. Zmínky v K8 ř. 164, 2163.
+- **Vzhled:** malý a neuvěřitelně rozložitý, obnažená hruď, dva nábojové pásy, **červený pásek přes čelo**, červený hřeben, krátké **bílé** vousy. Na pravém rameni tetovaný dvouhlavý říšský orel, na hřbetech rukou draci (K6 ř. 638). Tlusté čočky se záměrným křížem (K3 ř. 470). Za letu kožená letecká helma rozříznutá kvůli hřebeni a křišťálové brýle.
+- **Původ:** klan Makaissonů z údolí **Dwimmerdim** na severu (K3 ř. 485). Parník *Nepotopitelný* se potopil a vzducholoď *Nezničitelná* se zřítila (20 mrtvých). Byl vyloučen z Cechu mechaniků „rituálem nohavic“ a oholil se na trolobijce (K3 ř. 134–160).
+- **Mluva:** silné nářečí s protetickým v-, „sem/sme/sou“, „bejt“, „todle/tadle“, „dyž“, „esli“: „Nepodělej si kaťata!“ (K4 ř. 702), „Cokoliv živýho se dá zabít“ (K4 ř. 1118), „Todleto už nikdy neudělám. Ani když se dožiju pětistovky“ (K5 ř. 1910). Felixe oslovuje „mládenče“ nebo „Herr Jaeger“, ženy „děvenko“ či „děvče“.
+- **Dílo:** *Duch Grungniho*, gyrokoptéry, bomby, raketová roura, rotační varhany, dávkovače alchymického ohně. V Praag přivezl „nejmíň sto“ trolobijců (K5 ř. 1885).
+- **Poslední známý stav:** „Když trolobijce-mechanika viděl naposledy, **u Železné věže**, říkal něco o opravách.“ O vzducholodi „celé dny“ žádné zprávy (K6 ř. 1435). Místo text blíže neurčuje. Nezaměňovat s vězením Železná věž v Nulnu (K2 ř. 612).
+- **Proč vrátit:** Gotrek ho v K8 sám vzývá („Kde je Makaisson, když ho potřebuju?“, ř. 164), takže návrat je připravený. Vzducholoď je ikonická. **Riziko:** deus ex machina. Doporučuji, aby Malakai sám hledal svou záhubu (nedokončená smrt trolobijce, Cech mechaniků) a aby loď něco stála.
+
+### 4.6 Borek Vidlívous („Borek Učený“) – potenciál **3**
+- **Výskyt:** K3–K4. Zmínka v K5 ř. 57.
+- **Vzhled:** nejstarší trpaslík, jakého Felix viděl. Rozdělený plnovous táhne po zemi, holé čelo, bílé vlasy, skřipec, železná hůl, „jediné bystré oko“ (K3 ř. 501–502), vyhaslá fajfka v zubech.
+- **Role:** učenec z rodu Grimnara a příbuzný krále Thangrima, rodák z Karag Dumu (K3 ř. 549). Vedl první výpravu (s Gotrekem a Snorrim) i výpravu vzducholodí. **Zná důvod Gotrekovy přísahy a mlčí** (K3 ř. 1266–1268). Ztratil synovce Vareka a je „poslední z mého rodu“ (K4 ř. 897). Vrátil se do Karak Kadrinu truchlit (K5 ř. 57).
+- **Mluva:** zdvořilá a učená. „Nic, co je pohřbeno pod zemí, není pro trpaslíky ztraceno“ (K4 ř. 2394).
+- **Stav:** neznámý. Byl prastarý už před 20 lety.
+- **Proč vrátit:** jako strážce tajemství, živý, nebo prostřednictvím zanechaného dopisu či záznamu v Karak Kadrinu.
+
+### 4.7 Teclis – potenciál **3** (spíš stín než postava)
+- **Výskyt:** K7. Zmínky v K6 ř. 971 a K8 ř. 623, 667, 1135–1136.
+- **Vzhled:** vysoký, velmi hubený, „skoro až průhledný“, úzká tvář, mandlové „chladné a kruté“ oči, ironický úsměv (K7 ř. 627). Vypadá na 18 let, **lehce kulhá na levou nohu** (K7 ř. 1769). Modré hedvábí, válečná koruna Saphery, hůl Lileath, meč se rtuťovitými runami. Pižmový parfém, kouzlem vždy čistý.
+- **Povaha:** arogantní vědec, chladně kalkuluje („obětoval by všechny pro Ulthuan“, K7 ř. 1372–1374), ale sebereflexivní. **Temná stránka:** krvežíznivý smích v boji, ve vizi se vidí jako nový Malekith a obětuje Murda s „tajným uspokojením“ (K7 ř. 2164–2168).
+- **Vazby na G&F:**
+  - diagnóza Gotrekovy proměny sekerou (K7 ř. 522);
+  - **amulet pro Felixe se skrytou funkcí** (K7 ř. 808, 823);
+  - dluh: Gotrek ho zachránil před obrovým kyjem (K7 ř. 2023);
+  - Gotrekovo nesplněné „zúčtování“ (K7 ř. 1111).
+- **Stav:** živ, vrátil se do Ulthuanu a chtěl se vrátit s armádou (K7 ř. 2192). **Pečeť Stezek měla vydržet „deset… možná dvacet“ cyklů světa** (K7 ř. 2149) a Murdův duch se „nevyhnutelně rozpadne“ (ř. 2191). **Po dvaceti letech lhůta vyprší právě teď [výklad].**
+- **Proč (ne)vracet:** nanejvýš jako krátký zásah, posel nebo hlas skrze amulet. Bylo by škoda, aby finále rozhodl elf.
+
+### 4.8 Kat (Kateřina) – potenciál **3–4**
+- **Výskyt:** K1 (povídka *Krev a temnota*).
+- **Vzhled:** v K1 asi šestiletá, **černé vlasy s bílým pramenem** (K1 ř. 1629, 1631).
+- **Role:** jediná přeživší Kleinsdorfu, dcera bojovnice Chaosu Justine (implicitně i Huga Kleina). Justinin meč zvedla a **matku jím probodla**, čímž se naplnila věštba, že ji „žádný válečník“ nepřemůže (K1 ř. 2107–2116). Démonický kníže **Kazakital** ji chtěl mrtvou (K1 ř. 1728, 1735). Zůstala u hraničáře **Fritze Messnera** ve Flensburgu (Drakwald): „Budu na vás stále vzpomínat“ (K1 ř. 2138).
+- **Stav:** v K9 by jí bylo asi 28–30. V K2–K8 se neobjevuje.
+- **(mimo text)** V anglické sérii se Kat jako dospělá později vrací. Pro náš projekt to není závazné.
+- **Proč vrátit:** uzavírá úplně první dobrodružství. Gotrekova nečekaná něha k dětem i Felixův sen o „normálním životě“. Napojení na Khorna a Kazakitala sedí na Krvežíznivcovu linku. Riziko: nadužívaná náhoda. Pokud ji vrátit, pak s vlastní motivací (válka v Drakwaldu, Khornova stopa).
+
+### 4.9 Ivan Petrovič Stragov († K6) – potenciál **1**
+- **Výskyt:** K3–K6, pohřeb v K7 ř. 102.
+- **Vzhled a povaha:** obr o hlavu vyšší než Felix, dlouhý bílý plnovous, holá hlava s jediným uzlem, břicho, desítky amuletů (K3 ř. 1001). Je to pohraniční bojar, který „dvacet let hlídal hranici“. Bouřlivě pohostinný, čestný. Přísahá „U Taala“.
+- **Osud:** obří netopýr mu rozsekl krk, když šel zabít proměněnou dceru (K6 ř. 2604–2608). Po smrti ještě funguje jako zdroj Ulričiny viny.
+
+### 4.10 Hamnir Ranulfsson († K8) – potenciál **2** (jako přítomnost, ne postava)
+- **Výskyt:** K8.
+- **Vzhled:** kaštanové vousy zastrčené za opaskem, zelenozlatý kabátec, břicho, zlaté brýle na řetízku (K8 ř. 234). V boji gromrilová zbroj a okřídlená přilba.
+- **Role:** druhý syn krále Alrika z Karak Hirnu, obchodník a diplomat („prodávám ostrou ocel, dobré pivo a vzácné kameny“, K8 ř. 1098). Gotrekův **pokrevní bratr** z mládí. Knihomol a milovník gyrokoptér, „měkkosrdcatý“ (K8 ř. 2564).
+- **Mluva:** smířlivá, úlisná. Gotrek mu po usmíření říká „učence“ či „vzdělanče“.
+- **Osud:** Spáč ho ovládl a zabil Galina. Gotrek mu strhl nákrčník a pak ho zabil (K8 ř. 2957–2959). **Oficiálně padl hrdinsky** (K8 ř. 3097).
+- **Využití:** vina, lež (hrozí, až se vrátí král **Alrik**), Gotrekův noční přízrak, srovnávací měřítko přátelství („Možná jsi nakonec trpaslík.“ / „A možná jsi víc než jen tvoje sekera.“, K8 ř. 1607–1608).
+
+### 4.11 Gorril – potenciál **3**
+- **Výskyt:** K8.
+- **Vzhled:** asi 4,5 stopy, ustupující hnědé vlasy svázané v uzel, bílé zuby, vousy k opasku (K8 ř. 421).
+- **Role:** Hamnirův bratranec a nejlepší přítel, schopnější generál. **Spravuje Karak Hirn, „dokud se nevrátí král Alrik“** (K8 ř. 2656–2658). Pobil Démantokovy (ř. 3108). Věří lži o Hamnirovi.
+- **Mluva:** důstojná, vojenská („Nástup, synové Karak Hirnu. Máme před sebou ještě jednu smutnou práci“, K8 ř. 3108).
+- **Proč vrátit:** pravda o Hamnirovi může vyjít najevo, nebo ji Gorril odhalí.
+
+### 4.12 Ulfgart Kamenokupec (Haginskarl) a Kirgi Narinsson – potenciál **4**
+- **Výskyt:** K8 kap. 5–6 (ř. 516–537). V upoutávce „Ulfgart Kamenokupec“ (ř. 8).
+- **Vzhled:** Ulfgart (klan **Kamenokupců**) má šedé copánky. Kirgi (klan **Železných kůží**) je bělovousý s planoucíma modrýma očima.
+- **Role:** spor o Druttiho štít, který Gotrek rozsekl a hodil do krbu. Oba klany své vzájemné zášti stáhly a **vyhlásily zášť Gotrekovi, „lze vyřešit jen krví“**. Souboj odložili „do hodovní síně Karak Hirnu poté, co si připijeme na jeho osvobození“ (ř. 531–537). Pak z textu zmizí.
+- **Přitěžující okolnosti:** Kamenokupci Druric a Galin zemřeli v Gotrekově družině, Galina zabil ovládnutý Hamnir. **Kirgi přišel o jediného dědice Narina**, jehož poslední vzkaz zněl: „Řekněte otci, že lituji… že jsem mu nedal dědice. Ale ne… moc… a vrať mu tu třísku… Řekni mu… že mu v boji s tebou přeju hodně štěstí.“ Gotrek si třísku uložil do váčku a slíbil: „I tohle mu vyřídím“ (K8 ř. 2885–2888).
+- **Proč vrátit:** **nesplněný slib a zášť krví.** U Gotreka nemůže zůstat otevřená. Je to čistě trpasličí uzavření, ideální i jako tragikomická epizoda.
+
+### 4.13 Birri Birrisson – potenciál **2**
+- **Výskyt:** K8.
+- **Role:** mechanik Karak Hirnu a Hamnirův přítel, nositel Spáčova nákrčníku. Postavil pasti a **parní tank** („železný skarabeus na šesti kolech“, K8 ř. 2576–2579).
+- **Osud:** řetěz ho stáhl do kanálu (K8 ř. 2596–2600), smrt není ověřena. Gotrek: „Doufám, že shnije, než umře.“
+- **Využití:** jen jako ozvěna Spáčovy nákazy, pokud by se vracela.
+
+### 4.14 Otto Jaeger a Gustav Jaeger – Otto **4**, Gustav **3**
+- **Otto** (K2, zmínky v K1, K3, K7, K8):
+  - Vzhled: starší bratr, tlustý, podobný otci. Zvyk svírat pravou rukou levé zápěstí (K2 ř. 1758).
+  - Role: vede nulnskou pobočku rodinné firmy, manželka **Annabella** je Bretonka (K2 ř. 363). Opatrný a bojí se tajné policie, ale bratrovi pomáhá penězi a kontakty.
+  - Mluva: „Proč tě vidím jen tehdy, když něco chceš?“ (K2).
+  - **Zná pravdu o von Halstadtovi** (K2 ř. 2385). U něj měl ležet **Felixův deník** (K2 ř. 2727) a podle K7 ř. 1435 i rukopis. V K3 „rozchod s bratrem“ (ř. 14).
+  - Stav: Felix neví, zda „vede stále bratr Otto rodinný podnik“ (K8 ř. 3118).
+- **Gustav** (jen zmínky):
+  - Role: altdorfský magnát (povoznictví, tiskárny), Felixe vydědil. Felix se s ním nikdy neusmířil (K4 ř. 1035, 2042). Ve Stezkách vidí démony s tvářemi otce a bratrů (K7 ř. 637). Teď je to stařec, pokud žije.
+  - Mluva: pořekadlo „Nejprázdnější nádoby duní nejhlasitěji“ (K4 ř. 1670).
+- **Proč vrátit:** Felixův oblouk „domov a usazení“ (K8 ř. 3118). Otázka, kdo vydá *Mé cesty s Gotrekem* (otcovy tiskárny – Altdorf Press?). Smíření nebo jeho nemožnost. Doporučuji Otta, ať už osobně, dopisem nebo zprávou o jeho osudu ve válce. Gustava spíš jako nepřítomného (smrt, dopis, dědictví).
+
+### 4.15 Kirsten († K1) – potenciál **1** · Elissa – potenciál **1**
+- **Kirsten:** viz 2.6. Funguje jako vzpomínka, případně démonická tvář v pokušení (srov. K7 ř. 637).
+- **Elissa** (K2):
+  - Vzhled: malá, kulatý obličej, černé kudrnaté vlasy.
+  - Role a osud: číšnice ze Slepého prasete, odešla s Hansem a s Felixovými penězi. Osud neznámý.
+
+### 4.16 Doktor Drexler a Hieronymus Ostwald (řád Kladiva, Nuln) – potenciál **2–3**
+- **Výskyt:** K2.
+- **Drexler:**
+  - Vzhled: drobný a štíhlý, bradka, brýle, opálený.
+  - Role: studoval v arabském **Kah Sabaru**, nepouští žilou. Je to čaroděj ochranné magie a sběratel zakázaných knih. S Aldredem byl na sigmaritském semináři. Zlatým polem zastavil Thanquolův černý blesk (K2 ř. 2708–2710). Půjčil Felixovi Leiberovu knihu o skavenech.
+  - Mluva: vlídná, učená („hledejte systém“, K2 ř. 1518).
+- **Ostwald:**
+  - Vzhled: vysoký a hubený, černě oděný, chladné šedé oči, vojenské držení.
+  - Role: tajemník hraběnky Emmanuelle a **po von Halstadtovi šéf tajné policie** (K2 ř. 1916).
+  - Mluva: matoucí vyšetřovatelská taktika.
+- **Oba** jsou členy **řádu Kladiva** a věří, že Felix je Aldredův nástupce (K2 ř. 1895–1901).
+- **Proč vrátit:** Nuln, Karaghul a řád. Kdo převezme meč, pokud Felix přežije Gotreka? Ostwald by navíc mohl znát pravdu o von Halstadtovi. Po 20 letech nejistí.
+
+### 4.17 Hargrim, syn Thangrima Ohňovouse – potenciál **3**
+- **Výskyt:** K3–K4.
+- **Vzhled:** vyhublý, horečné oči, dlouhý černý vous se stříbrem, okřídlená přilba, kuše a kladivo (K3 ř. 1707). Vousy a šaty obarvené načerno na znamení smutku (K4 ř. 138).
+- **Role:** kapitán tunelových bojovníků, poslední princ Karag Dumu. Drží **Kladivo osudu** (nepálí ho) a prohlásil, že trpaslíci jsou Felixovi dlužní, „tolik, že to nelze splatit“ (K3 ř. 2088). Kladivo nechal „prozatím“ v Grimnirově svatyni v Karak Kadrinu (K4 ř. 1359).
+- **Mluva:** tvrdá, podezíravá vůči lidem. „Jestli jsem kdy pochyboval, že toto je Valekova sekera, už nepochybuji“ (K3 ř. 1775).
+- **Proč vrátit:** Kladivo osudu, Felix jako Kladivonoš a dluh trpaslíků. Napojení na Valkovo proroctví a Krvežíznivce, který vyrval srdce jeho otci.
+
+### 4.18 Murdo – pozor, dvě různé postavy
+- **Murdo Mac Laghlan, „Král lupičů“** (vlastně Heinrik Schmidt). Výskyt K2 ř. 621–625, štamgast Slepého prasete v Nulnu. Je to kolorit. Potenciál **1**, nanejvýš kameo v Nulnu.
+- **Murdo Mac Baldoch** (K7). Starý **Pravdomluvný** z Crannog Mere v Albionu, nosí tartan a hranaté tetování, léčí zaklínadly, má runový oštěp, který se vrací. Je moudrý a „ví víc, než říká“. **Obětoval se** a Teclis mu vyrval srdce (K7 ř. 2157–2170). Jeho duch se připojil ke slannským strážcům a drží pečeť Stezek, která se má „nevyhnutelně rozpadnout“ (ř. 2191). Potenciál **2**, jako duch nebo znamení, že pečeť povoluje.
+
+### 4.19 Heinz – potenciál **3**
+- **Výskyt:** K2. Zmínka v K8 ř. 3118.
+- **Vzhled:** lysý bývalý halapartník a kapitán, zlomená noha z bitvy v Rudém průsmyku orků.
+- **Role:** Gotrekův kamarád ze žoldnéřských let, majitel nulnské hospody **U Slepého prasete**. Zemřelá žena Lotte.
+- **Mluva:** heslo „Čaroděje nerozčilovat“.
+- **Proč vrátit:** lidský domov G&F, místo pro návrat nebo rozloučení.
+
+### 4.20 Ungrimm Železná pěst, král trolobijců (Karak Kadrin) – potenciál **4**
+- **Výskyt:** K4. V K5 jako nejmenovaný „Král trolobijců“.
+- **Vzhled:** mrzutý a podsaditý, hřeben Grimnirova kultu, dlouhý zahnutý nos, „maniakální inteligence“ v očích (K4 ř. 992).
+- **Mluva:** rozvláčný řečník.
+- **Role:** v Karak Kadrinu stojí **Grimnirova svatyně se sloupem přísahy**, kde Gotrekovo jméno chybí (K4 ř. 950–956), a leží tam i **Kladivo osudu**.
+- **Proč vrátit:** je to ideální místo, kam po finále dorazí pamětník. Případně trolobijci Karak Kadrinu ve válce, srov. Snorriho vizi oplakávání „všemi trolobijci“ (K7 ř. 536).
+
+### 4.21 Další postavy (stručně)
+
+| Postava | Kniha | Role, poslední stav | Potenciál |
+|---|---|---|---|
+| Varek Varigsson | K3–K4 | Borekův synovec, píše vlastní knihu o Gotrekovi. Padl náletem gyrokoptérou na draka: „Už nikdy nedokončím svou knihu“ (K4 ř. 868). Kniha je ztracená. | 1 (kniha jako artefakt) |
+| Bjorni Bjornisson, Ulli Ullisson | K4–K5 | Trolobijci, oba padli v Praag (K5 ř. 1955, 2027) | 1 |
+| Steg Dlouhoprsťák, Grimme | K4 | Trolobijci, padli u draka. Stegův slib odškodnit Vorgrundy zůstal nesplněn. | 1 |
+| Kožovous, Thorgig, Narin, Druric, Galin, Kagrin, Sketti, Matrak, bratři Rassmussonovi | K8 | Všichni mrtví. Kožovous „dobrá smrt“ (ř. 2373), Thorgig „s rohem na rtech“ (ř. 2369) | 1 |
+| Hraběnka Emmanuelle | K2 | Kurfiřtka Nulnu, statečná kráska s havraními vlasy. Žije. | 2 |
+| Ledová královna Katarina, vévoda Enrik | K5–K6 | Carevna s magií zimy, praagský vévoda. Žijí (K6). | 2 |
+| Belegar, kněžka Magda Frejadotter, Faragrim | K1 | Karak osmi vrcholů. Magda vede Knihu pamětí a zná „precedens“ (K1 ř. 894). | 2 (Magda jako svědek tajemství) |
+| Fritz Messner | K1 | Hraničář z Flensburgu, Katin pěstoun | 1–2 |
+| Magdalena | K1 | Dcera vlkodlaka s darem Zraku. Na konci K1 má Gotrekovu sekeru u krku. Osud neuveden. | 1 |
+| Nor Norrison | K2 | „Zmocněný posel klanů“ s runovým dopisem | 1 |
+| Olger Olgersson („Držgrešle“) | K3 | Finančník, čeká v Middenheimu na zlato | 1 |
+| Rodrik | K6 | Gabriellin „pejsek“, žije | 1 |
+| Siobhain, Culum, Orákulum, Dugal | K7 | Albion. Culum na Felixe stále žárlí. Dugal ve stázi. | 1 |
+| Kapitán Doucette | K8 | Bretonský kapitán *Reine Celeste*, uvízl v blokádě Barak Varru | 1 |
+| Král Alrik a korunní princ | K8 (zmínky) | Táhnou se 700 bojovníky na sever, do stejné války. Až se vrátí, najdou mrtvého syna, otevřené tajné sklepení a pevnost bez obilí. | **3** (může na G&F narazit ve válce) |
+
+---
+## 5. ANTAGONISTÉ
+
+### 5.1 Šedý věštec Thanquol – stav: **pravděpodobně živ** (od K5 bez zpráv) – potenciál **5**
+- **Kdo je:**
+  - „Máglord ve službách Třinácti. Najatý klanem, ale ne jako oni“ (K2 ř. 386). Stojí mimo klany a je vázán přísahou svého řádu.
+  - Vzhled: šedá až bílá srst, **rohy**, zvláštní oči (podle K2 ř. 385 „slepé“), na chaotitu rudé.
+  - Chaotit šňupe, žvýká a jí, je na něm závislý a trpí abstinenčními příznaky (K5 ř. 727). Úspěch si „vyvěští“ i z vlastního trusu (K4 ř. 44–45).
+  - Doupě ve Skavenmoru s plemenicemi (K2 ř. 399).
+- **Magie:**
+  - zelené světlo, černý blesk a věštící kámen, přes který otevírá portál (K2);
+  - ovládání mysli krysího lidožrouta a spojovací amulety zatlučené do čel podřízených (K3);
+  - obří chapadla, která stahují vzducholoď k zemi (K4 ř. 390–404);
+  - **únikové kouzlo**, teleport na pár set kroků se zápachem síry (K4 ř. 509–511);
+  - astrální sledování bitvy (K5).
+- **Kostilam (Boneripper):** Thanquolův krysí lidožrout a tělesný strážce, zatím tři kusy, všichni mrtví.
+  - Kostilam I. zabil Hefa, Pavouka a Frau Zorin. Gotrek mu rozpůlil hlavu (K2 ř. 581).
+  - Kostilam II. spolkl Felixovu bombu (K3 ř. 348–351).
+  - Kostilam III., koupený za „malé jmění v chaotitových mincích“ (K4 ř. 28), zabili Gotrek a Snorri (K4 ř. 517).
+  - **Thanquol si vždy pořídí dalšího**, Kostilam IV. je tedy logický.
+- **Pohledové kapitoly:** K2, K3, K4, K5 (v K6–K8 jen zmínky). **Komika** stojí na sebeklamu, vinění podřízených a megalomanii:
+  - „Mocný vojevůdce Vermek Skab je mrtvý. Přihodila se mu strašná nehoda, když ho vyhodil osel a on měl nabitou kuši“ (K2 ř. 892);
+  - „Koneckonců, byli postradatelní. Většina skavenů byla. Byl prostě rád, že není jedním z nich“ (K4 ř. 471);
+  - chce chytit Morrslieb a doletět na něj vzducholodí (K4 ř. 437–438);
+  - na bále upaluje hosty, kteří nevědí, co je „hlavní plemenice“ (K2 ř. 2673–2687);
+  - „Další důkaz mého vojenského génia“ (K5 ř. 1375);
+  - „Lurk Rozeklaný jazyk není můj společník. Je to můj nohsled“ (K5 ř. 174).
+  - Přitom je skutečně nebezpečný: zajal Maxe, málem stáhl vzducholoď a je jedním z nejsilnějších mágů, které G&F potkali.
+- **Mluva:** zdvojování slov („Rychle-rychle!“), „lidský tvore“, „holé opice“, „plemenice“. Přísahá „U Třinácti“ a „U páchnoucího dechu Rohaté krysy“. Podřízení mu lichotí („nejmocnější z mocných“).
+- **Přísaha pomsty:** v Nulnu „přísahal, že pokud mu život poskytne příležitost, trpaslíkovi se pomstí“ (K2 ř. 582) a „jednou se vrátí a pomstí se“ (K2 ř. 2719). V Praag znovu, „pokud nebude příliš riskantní“ (K5 ř. 1743). Za vpád Chaosu viní G&F (K4 ř. 1378).
+- **Proroctví Pána věštců** (K2 ř. 685): osudy trpaslíka a člověka jsou „propletené s vaším… **nezabíjet je, pak…**“. Thanquol větu nedoslechl. **[výklad]** Je to nejlepší háček pro to, aby Thanquol v K9 sehrál nečekanou, třeba nechtěně užitečnou roli.
+- **Linka po dílech:**
+  - K2: invaze na Nuln, útěk záchodem;
+  - K3: honí loď podzemím;
+  - K4: léčka u Stragovů. Zajmou ho rytíři Tzeentche a Lhoigor mu dá kouli čistého chaotitu, která se pak „záhadně vypaří“ (K5 ř. 164). Skončí jako vězeň Izáka Grottla v Pekelné díře;
+  - K5: prozradí Lurkovu vzpouru a je předvolán **před Radu třinácti do Skavenmoru**. Pochoduje s tisíci Tvůrců, napadnou ho Khornovi válečníci Morgara Zhoubného meče a chystá se zmizet únikovým kouzlem (K5 ř. 1862–1864);
+  - K8: „houževnatý šedý věštec, který jim byl tvrdohlavě v patách“ (ř. 623).
+- **Proč vrátit:** komické odlehčení temného finále i skutečná hrozba. Bouře Chaosu je přesně chvíle, kdy skaveni zneužijí slabosti Říše. **Doporučení:** ať nezemře Gotrekovou rukou ani nevezme Gotrekovi smrt. Je to věčný přeživší.
+
+### 5.2 Lurk Rozeklaný jazyk („Lurk Skvostný“) – stav: **neznámo** (uprchl, K5) – potenciál **3**
+- **Vzhled a vývoj:**
+  - K2: nejmladší vojevůdce klanu Skab, „nejvychytralejší a nejodpornější“, udavač. Zradil Thanquola a doručoval dopisy G&F.
+  - K3–K4: černý pasažér vzducholodi, chaotitem zmutovaný. Rohy, kly, kostěná maska, ocas s kostěnou palicí, dvakrát větší než dřív, „milost Měniče cest“ (K4 ř. 1502).
+  - K5: „skoro dvakrát vyšší než Felix Jaeger“, Rohatou krysu nazývá „můj otec“. Vede vzpouru v Pekelné díře, kterou mu potají připravila dvojčata (K5 ř. 1290, 469). Prohraje a uprchne a uvažuje o vstupu do vojska Chaosu (K5 ř. 735).
+- **Mluva:** podlézavé superlativy („nejjiskřivější z věštců“), později vznešené megalomanské tirády („Dnes Pekelná díra… zítra celý svět“, K5 ř. 476).
+- **Vazba:** Thanquolův drahokam je s ním stále spojuje (K5 ř. 446).
+- **Potenciál:** jako zmutovaný šampion v Archaonových řadách nebo Thanquolův znovunalezený „nohsled“.
+
+### 5.3 Krvežíznivec z Karag Dumu – stav: **vyhnán, ne zničen** – potenciál **5**
+- **Vzhled:** víc než dvakrát vyšší než muž, netopýří křídla, rudá kůže, rohy, bič a runová sekera větší než člověk. Na čele má Khornovo znamení, oči „jako tůně temnoty“ a šíří auru strachu (K3 ř. 1915, 1986–1988). Trpaslíci mu říkají „Děs“, Gotrek „Blutdrengrik“. Je „druhý po svém bohu“ (K3 ř. 1919).
+- **Činy:** přivolal ho Skathlok Železný dráp. Zabil tucet runových hrdinů, Valek ho vyhnal a slíbil se vrátit (K3 ř. 1900–1908). **Vyrval a snědl srdce krále Thangrima** (K3 ř. 2045–2047), zabil kněze Grimnira i kněžku Valayi, rozštípl Snorriho zbraně a rozbil Maxův amulet na Felixově hrudi.
+- **Mluva:** výsměšná a povýšená („králíčku“, „otroku“, „Děkuji ti za prokázanou službu, otroku“, K3 ř. 2003).
+- **Spojení:** „Jsem spojený s tvou sekerou… vždy vycítím její přítomnost“ (K3 ř. 2003).
+- **Přísaha:** „**Budu si vás pamatovat, smrtelníci. A mám celou věčnost na to, abych se pomstil.**“ (K3 ř. 2067). Max: velkého démona nelze zničit, jen vypudit, a vrátí se „pomstít se jim nebo jejich potomkům a dědicům“ (K4 ř. 590).
+- **Proč je pro K9 klíčový:**
+  - Bouře Chaosu a „poslední dny“ (Valek);
+  - zesílené magické vichry, při nichž se démoni udrží v našem světě (K5 ř. 200–204, 497–503);
+  - osobní vazba na sekeru i na oba hrdiny (Felix mu vrazil Kladivo osudu do lebky);
+  - Gotrek sám považoval smrt v boji s ním za „nejlepší smrt, jakou kdy nějaký trolobijce měl“ (K4 ř. 987).
+  - **[výklad]** Felixova vize „okřídleného démona“ na hořící hoře (K7 ř. 536) se dá vyložit buď jako on, nebo jako jiný velký démon. Popis „kříženec člověka a elfa“ na Krvežíznivce přesně nesedí, autoři mohou zvolit.
+
+### 5.4 Kazakital – stav: **nezničen** – potenciál **3**
+- **Kdo:** démonický kníže, „rudý Kazakital, Vyvolený Khorna“ (K1 ř. 1756). Patron bojovnice Justine, hrobka a **černý oltář na kamenné mohyle v Drakwaldu** (K1 ř. 1958).
+- **Mluva:** promlouvá ústy mrtvých obětí, například skrze mrtvolu hraničáře Rolfa (K1).
+- **Vazby:** Gotrekovu sekeru nazval „prokletím bohů“ (K1 ř. 1973). Chtěl smrt Kat (K1 ř. 1735). Ztratil šampionku, ale sám zůstal netknutý. Démonické dělo **Hromovládce** zůstalo v rukou „starého vévody“ (K1 ř. 2127).
+- **Potenciál:** khornovská linka spolu s Krvežíznivcem a návratem Kat. Spíš jako jméno a hlas než hlavní záporák.
+
+### 5.5 Kelmain Černá hůl a Lhoigor Zlatý prut – stav: **oba mrtví** (K7) – potenciál **1** (jejich „mistři“ 3)
+- **Vzhled:** albínská jednovaječná dvojčata, staletá, spojená telepatií. Kelmain má ebenovou hůl se stříbrem a stříbrné nehty, Lhoigor zlatou hůl a zlaté drápy.
+- **Původ:** matka obcovala s démonem, vychoval je šaman kmene Divukrev a hole vykopali v ruinách Ulangoru (K5 ř. 1298–1302).
+- **Mluva:** vzájemná ironie a telepatické dialogy („Ano, bratře“). Hrají spolu šachy, partií mají „skoro deset tisíc“ (K5 ř. 292–294).
+- **Činy:**
+  - probudili a zotročili draka Skjalandira (K4 ř. 846);
+  - vychovali Areka a vedli jeho hordu;
+  - Gotreka označili za nevědomého „vyvoleného bojovníka nepřátel naší věci“ (K5 ř. 379);
+  - stáli za Lurkovou vzpourou;
+  - otevřeli Stezky Prastarých.
+- **Smrt (ověřeno):**
+  - **Lhoigora** zasáhl Murdův oštěp a Gotrek ho rozsekl i s holí (K7 ř. 2085–2086).
+  - **Kelmain** zakolísal, když jeho dvojče zemřelo, a Teclisova energie ho rozložila, „pak byl mág Chaosu pryč“ (K7 ř. 2087).
+- **Otevřené:** „mistři“, kteří jim přikázali otevřít Stezky (K7 ř. 166, 1714), jsou neidentifikovaní. **[výklad]** Lze je propojit s Tzeentchovým „Řádem“ z K1 (5.10) nebo s Archaonovým plánem.
+
+### 5.6 Arek Srdce démona – stav: **mrtev** (K5 ř. 2028) – potenciál **1**
+- **Kdo:** staletý vojevůdce Tzeentche, bývalý šlechtic z Říše, nosí „nezranitelnou“ ardunskou zbroj (K5 ř. 256–274).
+- **Mluva:** kouzlem zesílený, hypnotický hlas, „dar Tzeentche“ (K4 ř. 1509). „Jsem Arek Srdce démona… Přišel jsem vás všechny zabít… Přišel Čas změn“ (K5 ř. 222–225).
+- **Smrt:** naplnila se jeho vize. Gotrek mu usekl hlavu a Felix ji zvedl (K5 ř. 349–351, 2028–2030).
+- **Otevřené:** Arek věděl, „proč se Skathloc tolik snažil obsadit pevnost Praag a co se tam stále ještě ukrývá“ (K5 ř. 264). **Nevyřešeno.** Jako zdroj tajemství je pořád použitelný.
+
+### 5.7 Adolphus Krieger – stav: **zničen** (K6 ř. 2632) – potenciál **1** (odkaz 3)
+- **Kdo:** upír von Carsteinovy linie a Gabriellin potomek. Vojevůdce Zimní války, bojoval u Hel Fennu.
+- **Vzhled:** vysoký a bledý, tmavé oči i vlasy, archaicky zastřižené vlasy rovně nad čelem a dlouhé po stranách (K6 ř. 749). Vonná kulička se skořicí.
+- **Mluva:** lehký bretonský přízvuk (K6 ř. 1178), vede filozofické rozhovory o bozích a smrti. Nikdy neporuší dané slovo, jen ho formuluje dvojznačně („kdykoli si bude přát“, K6 ř. 1209–1215).
+- **Konec:** Gotrek přísahal: „kamkoli půjdeš, tam si tě najdu a zabiju tě“ (K6 ř. 1220). Snorriho lustr a Gotrekova sekera přísahu splnily.
+- **Odkaz:**
+  - **Ulrika** jako jeho jediný potomek;
+  - *Nosferatova proroctví* o **Čase krve** a **Bledém králi**, nejspíš zůstala na Drakenhofu (K6 ř. 1470);
+  - Oživení svolaní Okem;
+  - přeživší členové covenu (baronka Olga).
+
+### 5.8 Spáč – stav: **„Je mrtvý“** (Gotrek, K8 ř. 3098), dědictví nejisté – potenciál **2**
+- **Kdo:** prastarý hmyzí „císař“, který ovládal otroky-pralidi a uzavřel pakt s Ničivými silami. Zapečetili ho „bledí dobyvatelé“ v čedičové svatyni (K8 ř. 2980–2984, 3055).
+- **Vzhled:** obří zmutovaný hmyz připomínající vysušenou kudlanku, s voskově průhlednou skořápkou, osmi sklovitými končetinami, deseti fazetovýma očima a tykadly (K8 ř. 2980–2984).
+- **Mluva:** nemluví nahlas. Působí na mysl: beznaděj, vražedné sny, nenávist (K8 ř. 1815, 1891).
+- **Moc:** ovládal mysli přes **zlaté nákrčníky s černým kamenem**, které „šeptají“ (K8 ř. 2352). Křísil mrtvé a chtěl rozvézt „své děti“ v kuklách undgrinem do všech trpasličích pevností (K8 ř. 2916).
+- **Zbytky:** kukly pod sutinami, možná dříve odeslané bedny (K8 ř. 2739), pohozené nákrčníky a otupělí orci v dolech (ř. 3093).
+- **Význam pro K9:** hlavně psychický. Je původcem Gotrekovy viny a trhliny mezi G&F. Jako nová hrozba spíš ne, nanejvýš jako ozvěna.
+
+### 5.9 Archaon („nový vyvolený“) – stav: **aktivní, obléhá Middenheim** – potenciál **5 jako pozadí**
+- **V textu:** „nový vyvolený“ (K8 ř. 154), Skettiho konspirační teorie (ř. 618), „Archaon si otlouká hlavu o hradby Middenheimu… Nikdo nikdy nerozbil Fauschlag“ (ř. 3121). Gotrek míří do „kurganské krvavé lázně“ (ř. 3124).
+- **(mimo text)** V kánonu Warhammeru Archaon Bouři Chaosu přežije a Middenheim nepadne.
+- **Doporučení [výklad]:** Archaon by měl zůstat **horizontem, ne soupeřem v souboji s Gotrekem**. Gotrekova záhuba má přijít v jeho válce, ale na „jeho“ nepříteli: démonovi s osobní vazbou (Krvežíznivec) nebo jiném velkém nepříteli. Pokud se Gotrek s Archaonem střetne, výsledek by měl ctít tento kánon, nebo vědomě založit „Kingův“ alternativní konec.
+
+### 5.10 Tzeentchův „Řád“ a Magister Magistorum – stav: **nedotčen** – potenciál **3**
+- **K1 ř. 2522–2523:** hrabě **Hrothgar** a čaroděj Voorman patří k „Řádu“ vedenému **Magisterem Magistorum**. „Čas změn se blíží.“ Magister dal Hrothgarovi **chaotitovou dýku v olověném jílci** proti Voormanovi.
+- **Osud:** Voorman je zničený (jeho duše přešla do vlkodlaka a Felix ho ubodal). **Hrothgar zůstal omráčený a pravděpodobně žije** (K1 ř. 2535). Hrothgar je vychrtlý, s černým vousem, poďobaný od neštovic, s orlím nosem (K1 ř. 2360).
+- **Mluva:** litanie „Arakkkai nidlek zarug Tzeentch“ (K1 ř. 2460).
+- **Ozvěny:** heslo „Čas změn“ zní znovu u Areka, praagského kultu i Lurka (K5 ř. 224, 541, 451). Dvojčata mají neznámé „mistry“ (K7).
+- **[výklad]** Nejstarší nevyřešená zápletka série. Pokud Magistera uvést, pak úsporně: jako pána, který tahal za nitky od K1. Hrothgar by po dvaceti letech mohl být jeho posel.
+
+### 5.11 Ostatní hrozby
+
+| Antagonista | Kniha | Stav | Potenciál a pozn. |
+|---|---|---|---|
+| **Izák Grottle** (klan Tvůrců) | K2, K4–K5 | živ | 2. Thanquolův rival, obézní, nosí ho krysí obři, „Že? Že?“. |
+| **Skitch** (káďový mistr) | K2 | živ | 1. Umí znovu vypěstovat krysy-žrouty. |
+| **Heskit Jednooký** (Skryre) | K2 | zřejmě mrtev | 1 |
+| **Vilebroth Null**, **Čang Squik** | K2 | mrtví | 0. Thanquol upálil Čang Squika, žáka **Pána smrti Snikche**, takže hrozí pomsta klanu Eshin (K2 ř. 864, 2679). |
+| **Mannfred von Carstein** | jen vize v K7 ř. 535 | — | 2. Felixova vize střetu na sylvánském hradě. |
+| **Rada upírů / Nagaš** | K6 | — | 2. Nagašova stopa v Maxově mysli (K6 ř. 1444–1455). |
+| **Prastarý duch temnoty** | K7 ř. 1567–1571 | uvolňuje se | 3. „To není váš problém“ (Orákulum). Se selháním pečeti Stezek po 10–20 letech (ř. 2149) jde o kosmické pozadí Bouře Chaosu. |
+| **Kestranor Kastrovač** (Slaanesh), **Čulazchán** (Nurgle) | K7 ř. 160 | živi | 2. Váleční páni Chaosu, mohou stát v Archaonově vojsku. |
+| **Skathlok Železný dráp** | K3, K5 | zmizel před 200 lety | 1. Přivolal Krvežíznivce. Tajemství Praag. |
+| **Bubar Smrdutý dech, Lothar Ohnivá pěst, Siréna Jantarový vlas, Bayar Rohatá přilba, Morgar Zhoubný meč** | K5 | neuvedeno | 2. Arekovi velitelé. |
+| **Kult Tzeentche v Praag** (Alrik, Karl, Victor, Damien) | K5 | na svobodě | 1 |
+| **Lovec čarodějnic Petr** | K5 | živ | 1. Mstitel za zabitého Ulga. |
+| **Hans Müller** („můžete mi říkat Bože“) | K3 | zraněn, zmizel | 1 |
+| **Johan Gatz, Henrik Richter, šaman Ixix** | K4 | uprchli | 1. Vědí o pohřbeném dračím pokladu. |
+| **Zarkhul** (orčí vůdce Albionu) | K7 | neznámo | 0 |
+| **Birri Birrisson** | K8 | nezvěstný | 2 |
+| **Kurt von Diehl** | K1 ř. 534 | „temnější osud na severu“ | 1. Na severu, kam se teď jde, by mohl být zajímavou kuriozitou. |
+| **Grume Noční spár, Magrig Jednooký, Ugrek Stahovač, drak Skjalandir, Justine, Kruger, Manfred von Diehl, von Halstadt** | K1–K7 | mrtví | 0 |
+
+---
+
+## 6. KDO ŽIJE, KDO JE MRTVÝ, CO JE NEZNÁMO (stav na konci K8)
+
+> „Neznámo“ = text osud neuvádí nebo od posledního výskytu uplynulo ~20 let bez zpráv.
+
+| Postava | Stav | Poslední doklad |
+|---|---|---|
+| **Gotrek Gurnisson** | **ŽIV**, zraněný, „nejčernější nálada“ | K8 ř. 3116–3124 |
+| **Felix Jaeger** | **ŽIV**, 40–42 let | K8 ř. 1043, 3125 |
+| Snorri Nosohryz | **neznámo** (naposledy v bezvědomí v Sylvánii) | K7 ř. 370; K8 ř. 3118 |
+| Max Schreiber | **neznámo** (dtto) | K7 ř. 370; K8 ř. 3118 |
+| Ulrika Magdovna | **„nemrtvá“ (upírka), neznámo kde** | K6 ř. 2647; K8 ř. 3119 |
+| Hraběnka Gabriella | **„nemrtvá“, neznámo kde** | K6 ř. 2647 |
+| Malakai Makaisson | **neznámo** („u Železné věže“) | K6 ř. 1435; K8 ř. 164 |
+| Borek Vidlívous | **neznámo**, pravděpodobně živ v Karak Kadrinu, velmi starý | K5 ř. 57 |
+| Teclis | **živ** (Ulthuan) | K7 ř. 2192 |
+| Kat | **neznámo**, naposledy u Messnera ve Flensburgu | K1 ř. 2133–2138 |
+| Otto Jaeger, Gustav Jaeger | **neznámo** | K8 ř. 3118 |
+| Heinz | **neznámo** | K8 ř. 3118 |
+| Drexler, Ostwald, hraběnka Emmanuelle | **neznámo** (živí na konci K2) | K2 ř. 2735 |
+| Hargrim | **neznámo** (živ v K4, Karak Kadrin) | K4 ř. 1359 |
+| Ungrimm Železná pěst | **neznámo** (živ v K5) | K5 ř. 1885 |
+| Ledová královna, vévoda Enrik | **neznámo** (živí v K6) | K6 |
+| Gorril | **živ**, spravuje Karak Hirn | K8 ř. 2656, 3108 |
+| Ulfgart Kamenokupec, Kirgi Narinsson | **živi**, zášť krví trvá | K8 ř. 531–537 |
+| Král Alrik a korunní princ | **živi**, na severu | K8 ř. 1176, 2658 |
+| Birri Birrisson | **neznámo** (kanál) | K8 ř. 2596 |
+| Elissa | **neznámo** | K2 ř. 2737 |
+| Kirsten | **mrtvá** | K1 ř. 719 |
+| Ivan Petrovič Stragov | **mrtev** | K6 ř. 2608 |
+| Hamnir Ranulfsson | **mrtev** (Gotrekovou rukou, oficiálně „padl v boji“) | K8 ř. 2959, 3097 |
+| Varek; Bjorni, Ulli; Steg, Grimme | **mrtví** | K4 ř. 868; K5 ř. 1955, 2027; K4 ř. 2177, 2182 |
+| Thorgig, Kagrin, Narin, Druric, Galin, Sketti, Matrak, Kožovous, bratři Rassmussonovi | **mrtví** | K8 |
+| Tén Kirhaz, Ferga a klan Démantokovů | **mrtví** (pobiti) | K8 ř. 3117 |
+| Murdo Mac Baldoch | **mrtev** (duch drží pečeť) | K7 ř. 2164–2175 |
+| Aldred Keppler | **mrtev** | K1 ř. 1138 |
+| **Thanquol** | **pravděpodobně živ / neznámo** | K5 ř. 1862–1864; K8 ř. 623 |
+| Lurk | **neznámo** (uprchl) | K5 ř. 1020–1023 |
+| Izák Grottle | **živ** (v K5) | K5 ř. 1863 |
+| **Krvežíznivec z Karag Dumu** | **vyhnán, ne zničen, přísahal věčnou pomstu** | K3 ř. 2067 |
+| Kazakital | **nezničen** | K1 |
+| Kelmain, Lhoigor | **mrtví** | K7 ř. 2085–2087 |
+| Arek Srdce démona | **mrtev** | K5 ř. 2028 |
+| Adolphus Krieger | **zničen** | K6 ř. 2632 |
+| Spáč | **mrtev** (podle Gotreka), kukly a nákrčníky zůstaly | K8 ř. 3098 |
+| Archaon | **aktivní**, obléhá Middenheim | K8 ř. 3121 |
+| Magister Magistorum, hrabě Hrothgar | **nedotčen / pravděpodobně živ** | K1 ř. 2522–2535 |
+| Skathlok Železný dráp | **neznámo** (200 let) | K3 ř. 1871 |
+| Grume, Magrig, Ugrek, Skjalandir, Kostilam I.–III., von Halstadt, Null, Čang Squik | **mrtví** | K2–K7 |
+
+**Artefakty:**
+
+| Artefakt | Kde je |
+|---|---|
+| Gotrekova sekera | u Gotreka |
+| Karaghul | u Felixe |
+| Teclisův amulet | **neznámo**, v K8 nezmíněn |
+| Kladivo osudu | Karak Kadrin (K4) |
+| Narinova tříska z Druttiho štítu | Gotrekův váček |
+| Spáčovy nákrčníky | čedičová svatyně Karak Hirnu |
+| *Nosferatova proroctví* | pravděpodobně na Drakenhofu |
+| Oko Khemri | zničeno |
+| Dračí poklad Skjalandira | zasypán pod Dračí horou |
+| *Duch Grungniho* | neznámo |
+| Varekova kniha | neznámo |
+| Felixův deník z K2 | u Otty |
+| Démonické dělo Hromovládce | u „starého vévody“ (K1) |
+
+---
+
+## 7. DOPORUČENÍ PRO ZÁVĚREČNÝ DÍL
+
+> Principy a oblouky, ne konkrétní děj.
+
+### 7.1 Které postavy vrátit
+1. **Nutně (5):** Snorri, Max, Ulrika, Malakai (s vzducholodí, střídmě), Thanquol a Krvežíznivec z Karag Dumu. Každý má s G&F nedořešený účet:
+   - Snorri: vize vlastní smrti, zapomenuté tajemství, drobné dluhy;
+   - Max: Middenheim, Ulrika, Nagaš a Slaanesh;
+   - Ulrika: „za kterou stranu“;
+   - Malakai: „Kde je Makaisson?“;
+   - Thanquol: přísaha pomsty a useknuté proroctví;
+   - Krvežíznivec: věčná pomsta a vazba na sekeru.
+2. **Velmi vhodně (4):** Kirgi a Ulfgart (zášť krví a Narinova tříska), Otto (domov, rukopis), Gabriella (Ulričin svět), Ungrimm a Karak Kadrin (sloup přísahy) a případně Kat (první dobrodružství, Khorne).
+3. **Jako epizoda nebo zmínka (3):** Borek (strážce tajemství), Hargrim a Kladivo osudu, Heinz, Gorril či král Alrik (riziko odhalení lži o Hamnirovi), Teclis (amulet, pečeť Stezek), Magister Magistorum a Hrothgar, Kazakital.
+4. **Nechat odpočívat:** všechny mrtvé. Mohou žít jen jako vzpomínky, démonické přeludy (pokušení podle K7 ř. 637–638) nebo ozvěny.
+
+### 7.2 Oblouky, které je třeba uzavřít
+1. **Gotrekova záhuba a Síň předků** (K5 ř. 1788). Smrt musí být **očistná**, ne jen slavná. Po K8 nese Gotrek trpasličí krev a ví, že „to nikdy nebude stačit“ (K8 ř. 3124). Finále by mělo dát odpověď na otázku, co ho „očistí“.
+2. **Tajný zločin.** Nevyslovit ho naplno. Nechat Felixe pochopit nebo tušit (K1 ř. 180 + K5 vize + K8 Hamnir) a vyrovnat se s tím, že zná jen část.
+3. **Sekera.** Valkovo proroctví „až nastanou poslední dny“ se má naplnit. Rozhodnout, co se se sekerou stane po Gotrekově smrti. Kandidáti: Felix (neunese ji), Karak Kadrin, Karag Dum (Hargrim), zánik, nebo návrat k „bohu“, který ji odhodil (K5 ř. 320). Teclisova „bytost v procesu transformace“ připouští i nadpřirozený odchod.
+4. **Krvežíznivec.** Démonův slib věčné pomsty je nejsilnější přirozený soupeř pro finále.
+5. **Felixův slib:** „to není všechno, co jsi slíbil“ (K1 ř. 141). Vyjevit, co zbylo, nebo nechat Felixe, ať si zbytek slibu definuje sám.
+6. **Sloup přísahy.** Gotrekovo jméno chybí. Felix jako pamětník „dohlédne, aby bylo jeho jméno vyryto“ (K4 ř. 956). Je to přirozený epilog.
+7. **Lež o Hamnirovi.** Buď ji nechat obstát jako Felixovo břemeno, nebo ji nechat prasknout (Alrik, Gorril). Felixova volba mezi pravdou a legendou je zrcadlem eposu, který píše.
+8. **Spáčova slova.** Gotrek i Felix je musí v činech, ne v proslovech, odvolat.
+9. **Malé dluhy jako katarze:** Gotrek a Kirgi (tříska), Gotrek a Snorri (pivo), Snorri a Felix (zlaťák), Gotrek a Shallyina kněžka (K5 ř. 1792), Felix a Karaghul (vrátit řádu), Gotrek a Teclis (nekonané „zúčtování“).
+10. **Ulrika.** Rozhodnout, „za kterou stranu“ bojuje, a uzavřít milostný trojúhelník Felix–Ulrika–Max bez laciného návratu romance. Jsou to dospělí lidé po dvaceti letech a ona je upírka.
+11. **Felixův domov:** Otto, otec, Nuln, Altdorf, otázka „usadit se?“ (K8 ř. 3118). Felix musí mít po Gotrekovi kam jít.
+
+### 7.3 Jak důstojně dovést Gotrekův oblouk [výklad]
+- **Zachovat podstatu:** Gotrek se nemění v mudrce. Zůstává strohý, krutý, vtipný a hrdý. Jeho vývoj je jemný („Měknu“, K6 ř. 2648; přátelství s Hamnirem, K8).
+- **Smrt nesmí být náhodná ani anonymní** (K5 ř. 1366). Nepřijde od „smrkáčů“, orků ani střely z dálky. Ideálně proti nepříteli, který ho zná a kterého zná on, a pro něco, co přesahuje jeho vinu: záchrana druhých, Felixe nebo trpasličí pevnosti. Tím ji z „marnivosti“ (K4 ř. 987) promění v odčinění.
+- **Ozvěna bratrovraždy:** Gotrek zabil pokrevního bratra Hamnira. Nejsilnější odčinění je obětovat se pro jiného pokrevního bratra, tedy Felixe. Bez proslovu.
+- **Poslední slova:** krátká, „človíčku“, ideálně ozvěna z K1 („Co tě zdrželo, človíčku?“, „Ještě z tebe uděláme trolobijce“) nebo odvolání Spáčovy urážky jedinou větou.
+- **Otevřená tajemství** (Síň předků, sekera, zločin) mohou zůstat napůl otevřená. Felix nemusí vědět všechno a čtenář taky ne.
+- **Alternativa:** pokud by se autoři chtěli vyhnout jednoznačné smrti, nabízí se Teclisova „transformace“ (K7 ř. 522) a mizení se sekerou (srov. Sekeronoše, K5 ř. 320). Riziko: čtenář může mít pocit, že byl ošizen o smrt, o kterou šlo celých osm dílů.
+
+### 7.4 Jak důstojně dovést Felixův oblouk [výklad]
+- **Felix musí přežít** (epigraf K8: 2527) a stát se pamětníkem v plném smyslu slova. Ne jen svědkem, ale strážcem jména (sloup přísahy) a autorem posledního svazku (*Trolobijcova smrt*, K7 ř. 1438).
+- **Vrchol jeho volby:** napsat pravdu, nebo legendu (K6 ř. 1580; K8 ř. 3088).
+- **Vnitřní pohyb:** od „slibu daného v opilosti“ (K8 ř. 2990) k vědomému přijetí: „přísahal bych znovu“ (K7 ř. 1350).
+- **Domov:** rodina, usazení, možná láska. Nechat otevřené, ale s nadějí (K8 ř. 1043: „Psát básně, divadelní hry?… Ženit se? Mít děti?“).
+- **Karaghul a amulet:** předat meč, kam patří (řád Ohnivého srdce nebo řád Kladiva), a rozhodnout o Teclisově amuletu.
+
+### 7.5 Tón a styl
+- **Pohled:** držet Felixův pohled jako hlavní. Gotrek **nikdy nesmí být pohledovou postavou**, v celé sérii jí nebyl ani jednou (D1, D3–D8). Jeho nitro je vidět jen zvenku. Pro velkou bitvu lze použít Thanquolovy, Maxovy nebo Ulričiny pohledové pasáže, jak to dělal King.
+- **Humor nevynechat ani ve finále:** Thanquolův sebeklam, Snorriho doslovnost, Malakaiovo nářečí, nenávist ke stromům, lodím a elfům.
+- **Epigraf z Felixových pamětí** na začátek. Například „z knihy *Mé cesty s Gotrekem*, díl VIII“ s rokem po 2527, nebo poslední svazek s novým názvem.
+
+---
+
+## Příloha A: Rozpory mezi dossier a texty a jak jsou rozhodnuty
+
+| Bod | Rozpor | Rozhodnutí (ověřeno grepem) |
+|---|---|---|
+| Barva hřebenu | oranžový (K1 ř. 309; K5 ř. 342) × červený/ohnivý (K1 ř. 775; K5 ř. 23) | **Obarvený na oranžovo**, „ohnivý“ jako básnický popis. |
+| Které oko | dossier K1 uvádí levé | **Levé** (K1 ř. 1236, 1643), ztraceno v bráně pevnosti von Diehlů (K1 ř. 746; K5 ř. 344). |
+| Místo přísahy | „hospody Labyrintu“ (K1 ř. 172) × „u Sekery a kladiva“ (K7 ř. 533) | Hospoda *U Sekery a kladiva* v altdorfském Labyrintu. |
+| Jméno meče | v K2–K7 se jméno nevyskytuje | **Karaghul** (K1 ř. 909, 1137; K8 ř. 342). |
+| Felixovi sourozenci | „jeho bratr“ (K1 ř. 1389) × „bratři“ (K6 ř. 333; K7 ř. 637) | Jmenovat jen **Otta**, množné číslo nepoužívat. |
+| Čas Borekovy výpravy | „více než dvacet zim“ před K3 (K3 ř. 918) × Gotrek je 80 let trolobijcem a hřeben přijal až po výpravě (K8 ř. 1654, 1703) | Nedatovat, mluvit o „desetiletích“. |
+| Lhoigor a Kelmain | dossier K7: oba mrtví | **Potvrzeno** (K7 ř. 2085–2087). |
+| Malakai „u Železné věže“ | dossier K6 | **Potvrzeno** (K6 ř. 1435). Místo není blíže určeno. |
+| Teclisův amulet v K8 | dossier K7 předpokládá, že ho Felix nosí | V K8 **nezmíněn** (grep „amulet“ v K8 = 0 relevantních). Rozhodnout v K9. |
+| Dossier K6, odd. 1 | uvádí „podle obecné znalosti… díl Beastslayer“ | Chyba v dossier. K6 je *Vampireslayer*. |
+| Číslování pamětí | sv. II (K1), III (K2–K4), IV (K5–K7), díl VII (K8, chybně „VIL“) | Vydání 2505 (I–IV) a 2527 (VII). Svazky V–VI = Východ [výklad]. |
+| Thanquolova pomsta | K2 ř. 582, 2719; K5 ř. 1743 | Potvrzeno. |
+| Pekelná „jáma“ × „díra“ | K3 × K4–K5 | Doporučeno **Pekelná díra**. |
+| Duch Grungniho × Grugniho | K5 překlep | **Grungniho**. |
+| Ulrika „Magdovna“ × otec Ivan | patronymikum nesedí | Ponechat „Ulrika Magdovna“ jako ustálené jméno, otec Ivan Petrovič Stragov. |
+| Dvě postavy jménem Murdo | K2 (Mac Laghlan) × K7 (Mac Baldoch) | Rozlišovat příjmením. |

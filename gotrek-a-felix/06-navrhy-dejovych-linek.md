@@ -45,6 +45,7 @@ Pracovní název závěrečného dílu: **Zabíječ … (9. a poslední díl)**.
 
 **Na čem stojí:**
 - Gotrekovo provinění. Hamnira zabil, až když mu strhl nákrčník a Hamnir ležel bezbranný (kn. 8, ř. 2959). Gotrek se navíc podílel na vybití Démantokovů a Felix kvůli němu lhal Gorrilovi.
+- **Gotrek je podle vlastních slov bratrovrah.** Už v kn. 1, ř. 180 říká, že kdo zabije pokrevního bratra, stane se „bratrovrahem a to je děsivý zločin. O takových zločinech my nemluvíme.“ Hamnir byl jeho pokrevní bratr (kn. 8, ř. 260, 1561). Tahle věta z prvního dílu je pro finále nejsilnější zbraň: Gotrek ví, čím se stal.
 - Kamenokupci (Ulfgart) a Železné kůže (Kirgi) vyhlásili Gotrekovi zášť, kterou „lze vyřešit jen krví“. Je to nevyřešená nitka.
 - Narinova tříska z Druttiho štítu je v Gotrekově váčku a čeká na vrácení Kirgimu (kn. 8, ř. 2888).
 - Mechanik Birri zmizel v kanálu a jeho smrt není potvrzená. Smontované bedny s kuklami možná už odjely undgrinem do dalších pevností (kn. 8, ř. 2739). Spáč chtěl rozvézt „své děti“ do všech trpasličích pevností.
