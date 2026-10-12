@@ -1,0 +1,3 @@
+# Plné texty knih (autorsky chráněné) do repa nepatří
+*.pdb
+*.txt
