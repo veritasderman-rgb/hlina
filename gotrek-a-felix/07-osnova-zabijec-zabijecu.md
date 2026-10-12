@@ -45,7 +45,13 @@ Je to nový motor postavy. Pokud padne Skarnovou rukou nebo bude jeho krev proli
 
 Tři knihy s Kingovým rámcem. Každou otevírá úryvek z Felixových pamětí *Mé cesty s Gotrekem, díl VIII.* (Altdorf Press, 2528). Kapitoly jsou číslované slovem a mají název. Hlavní pohledová postava je Felix. Krátké kapitoly nebo jejich části patří záporákům (Thanquol, Skarn, Mannfred). Gotrek nikdy není pohledovou postavou.
 
-**Rozsah:** 28 kapitol a epilog (Longův Zabíječ orků má 26 kapitol a epilog).
+**Rozsah (varianta 2, schváleno):** **19 kapitol a epilog**, každá kapitola zhruba 7–8 tisíc slov v bohaté, košaté češtině podle revize v `03-styl-vypraveni.md`. Celkem asi **140–155 tisíc slov**. Původní osnova měla 28 kapitol. Sousední kapitoly jsou sloučené a u každé je uvedeno, ze kterých původních kapitol vznikla. Uvnitř sloučené kapitoly „První část / Druhá část“ označují scénické bloky oddělené `* * *`, ne nové kapitoly.
+
+| Kniha | Kapitoly |
+|---|---|
+| První: Zášť krve | JEDNA – ŠEST |
+| Druhá: Bledý král | SEDM – DVANÁCT |
+| Třetí: Hořící hora | TŘINÁCT – DEVATENÁCT + EPILOG |
 
 ---
 
@@ -74,38 +80,44 @@ Tři knihy s Kingovým rámcem. Každou otevírá úryvek z Felixových pamětí
 - **Felix nepociťuje triumf, jen prázdnotu.** Dvacet let ho ta krysa pronásledovala a teď je to jen mrtvola ve sněhu. Gotrek poprvé od Karak Hirnu zabručí něco, co se blíží uznání: „Dobrá rána, človíčku.“ Je to ozvěna z K8 ř. 2597.
 - Thanquolova linka je tím **uzavřená**: žádná únikovka, žádné „zmizelé tělo“.
 
-### TŘI: Narinova tříska
+### TŘI: Narinova tříska (původně kap. 3 + 4)
+
+#### První část: Narinova tříska
 - Za úsvitu dorazí do rozvalin **Kirgi Narinsson** s družinou Železných kůží a s Ulfgartovým synovcem z Kamenokupců. Stopovali Gotreka od Karak Hirnu.
 - **Novina:** v Karak Hirnu se z kanálů vynořil **Birri Birrisson**, pološílený, a vypověděl, co viděl: Gotrek zabil bezbranného Hamnira. **Felixova lež Gorrilovi je odhalená.**
 - Gotrek vytáhne z váčku **třísku z Druttiho štítu** a doslova předá Narinův vzkaz (K8 ř. 2885–2888). Kirgi zůstane stát jako zasažený bleskem.
 - Kirgi formálně vyhlásí zášť, kterou lze smýt jen krví. Gotrek ji přijme. Podle zákona ale musí zášť mezi trpaslíkem a trolobijcem rozsoudit **Grimnirova svatyně v Karak Kadrinu**. Vyrazí tam společně, nepřátelé, kteří si navzájem kryjí záda.
 - Felix nese vlastní hanbu, protože pro Gotreka lhal. Gorrilův vzkaz, který Kirgi přináší, je adresovaný právě jemu.
 
-### ČTYŘI: Undgrin
+#### Druhá část: Undgrin
 - Cesta na sever pod Horami na konci světa starou trpasličí podzemní dálnicí. Klaustrofobie, prázdné strážnice, ozvěny války nad hlavou.
 - Najdou **znesvěcenou trolobijeckou svatyni u cesty**. Mrtví trolobijci mají useknuté hřebeny a do prsou vyřezanou runu, kterou Felix nezná. Gotrek ano. Zbledne a řekne jen „Khorne“.
 - Kirgi a Gotrek spolu poprvé promluví u ohně. Kirgi chce vědět, jak Narin umřel. Gotrek mu to řekne celé a pravdivě. Je to první pravda v knize.
 
-### PĚT: Zabíječ zabíječů
+### ČTYŘI: Sloup přísahy (původně kap. 5 + 6)
+
+#### První část: Zabíječ zabíječů (Skarnův pohled)
 - **Kapitola z pohledu Skarna Haldrikssona.** Tábor Rudých hřebenů v opuštěné pevnosti.
 - Skarnův rituál: čte nahlas z rodové Knihy zášti a poslední zápis je Gotrekovo jméno. V ohni k němu promlouvá Děs.
 - Představí se plán: Kladivo osudu, krev bratrovraha a Ulrikův plamen. Pro Skarna to není jen služba bohu. Je to **spravedlnost**.
 - Skarn usekne hřeben mladému trolobijci, který se odmítl přidat. Řetěz hřebenů na jeho rameni cinká.
 
-### ŠEST: Sloup přísahy
+#### Druhá část: Sloup přísahy
 - Karak Kadrin. Král trolobijců **Ungrimm Železná pěst**, Grimnirova svatyně a **sloup přísahy**, kde Gotrekovo jméno stále chybí (K4 ř. 950–956). **Kladivo osudu** leží na oltáři.
 - **Borek Vidlívous zemřel** před několika lety. Svému „pamětníkovi Gotreka Gurnissona“ zanechal zapečetěný dopis. Felix ho otevře, ale dopis je v khazalidu a runách. Jen dvě věty přeloží Ungrimmův písař. Zbytek si Felix nechá na později a přečíst si ho troufne až v epilogu.
 - **Hargrim**, syn Thangrima Ohňovouse a král bez království (přeživší z Karag Dumu), je v Karak Kadrinu strážcem Kladiva osudu, dědictví svého rodu. Felixe pozná a osloví ho „Kladivonoši“ (K4 ř. 139, 1361). Děs mu zabil otce a snědl mu srdce (K3 ř. 2045–2047).
 - Felix čte jména na sloupu a hledá ta, která zná: Steg, Grimme, Ulli, Bjorni, Varek.
 
-### SEDM: Soud
+### PĚT: Noc rudých hřebenů (původně kap. 7 + 8)
+
+#### První část: Soud
 - Před Ungrimmem Kirgi žaluje Gotreka z vraždy Hamnira, prince Karak Hirnu.
 - **Felix vypoví pravdu** a přizná svou lež.
 - **Gotrek** řekne jedinou větu. Vysvětlení ne, jen přiznání: „Zabil jsem ho. Měl v žilách mou krev a já ho zabil.“
 - Felixovi se vybaví Gotrekova věta z K1 ř. 180: *„stal bych se bratrovrahem a to je děsivý zločin. O takových zločinech my nemluvíme.“* Felix pochopí, že se Gotrek nikdy nebál smrti, ale téhle věty.
 - Ungrimm odloží rozsudek. Zášť krve se rozsoudí soubojem za úsvitu u sloupu přísahy.
 
-### OSM: Noc rudých hřebenů
+#### Druhá část: Noc rudých hřebenů
 - V noci před soubojem zaútočí Rudé hřebeny. Několik z nich se skrývalo **mezi trolobijci Karak Kadrinu**, takže otevřou brány zevnitř.
 - **První bitva trolobijců proti trolobijcům.** Ve svatyni, mezi svícny a jmény mrtvých, trolobijci zabíjejí trolobijce. Pro trpaslíky je to horší než jakýkoli vpád orků.
 - Skarn se poprvé postaví Gotrekovi tváří v tvář a **veřejně vypráví svou verzi** Gotrekova zločinu: vypálené údolí, mrtvá trpaslice s dítětem, síň jeho otce a masakr.
@@ -114,11 +126,11 @@ Tři knihy s Kingovým rámcem. Každou otevírá úryvek z Felixových pamětí
 - Hargrim se pokusí Kladivo uhájit a je těžce zraněn.
 - Skarn odchází se slovy: „Uvidíme se na hořící hoře, synu Gurniho.“
 
-### DEVĚT: Rozsudek
+### ŠEST: Rozsudek (původně kap. 9)
 - Ráno po bitvě. Mrtví trolobijci na obou stranách a znesvěcený sloup.
 - **Ungrimmův rozsudek:** trolobijce nelze vyhnat ani popravit, protože pro svůj lid je už mrtvý. „Ale Grimnir nevpustí do síní nikoho, kdo má na sekeře krev bratra.“ Gotrek musí vrátit Kladivo a zabít ty, kdo zradili Grimnira. Pak Ungrimm vlastní rukou vyryje jeho jméno.
 - **Kirgi Narinsson přijme hřeben.** Ztratil dědice, jeho zášť zůstala nevyřízená a teď ještě viděl znesvěcenou svatyni. Gotrek mu hlavu oholí sám. Zášť mezi nimi tím nezaniká, jen ji odkládají.
-- Ungrimm ví, že zrada prošla jeho svatyní. Nařídí, aby každý trolobijce Karak Kadrinu ukázal runy na hrudi. Pojistka se ale vrátí až v kap. 24.
+- Ungrimm ví, že zrada prošla jeho svatyní. Nařídí, aby každý trolobijce Karak Kadrinu ukázal runy na hrudi. Pojistka se ale vrátí až v kap. 16.
 - Hargrim zatím nemůže jít, je zraněný. Přísahá, že pro Kladivo přijde.
 - Stopa Rudých hřebenů vede na jihozápad do **Sylvánie**, ke staré mohyle, kde se před sedmnácti lety otevřel portál do Stezek Prastarých (K7). Jestli Rudé hřebeny užívají Stezek, jsou u Middenheimu dřív než kdokoli jiný.
 
@@ -128,7 +140,9 @@ Tři knihy s Kingovým rámcem. Každou otevírá úryvek z Felixových pamětí
 
 > *Úryvek z pamětí:* Felix o stárnutí. „Když jsem ji viděl naposledy, bylo jí dvacet. Když jsem ji viděl znovu, bylo jí stále dvacet. Mně bylo čtyřicet dva a bolela mě kolena.“
 
-### DESET: Návštěva za soumraku
+### SEDM: Strážce mohyly (původně kap. 10 + 11)
+
+#### První část: Návštěva za soumraku
 - Hranice Ostermarku a Sylvánie. Felix drží noční hlídku a z mlhy vystoupí **Ulrika**: nestárnoucí, bledá a cizí. Je to silná a tichá scéna.
 - Přináší varování:
   - **Mannfred von Carstein** sídlí na Drakenhofu a připravuje rituál podle Kriegerovy kopie *Nosferatových proroctví*. Znamení se plní: hordy bestií, „hladový měsíc požírá oblohu“ (Morrslieb) a hořící města, tedy celá Bouře Chaosu.
@@ -138,44 +152,48 @@ Tři knihy s Kingovým rámcem. Každou otevírá úryvek z Felixových pamětí
 - Gotrek Ulriku pozná a sáhne po sekeře. Připomíná svou přísahu z K6 ř. 2645: „Najdu si vás obě.“ **Felix poprvé v životě tasí Karaghul proti Gotrekovi.** Nebojují spolu, ale ta chvíle mezi nimi zůstane.
 - Odpověď na otázku z konce K8, „za kterou stranu bojuje?“, zatím zní: za svou.
 
-### JEDENÁCT: Strážce mohyly
+#### Druhá část: Strážce mohyly
 - Portálová mohyla z K7. Kolem ní poustevna, kosti a nemrtví pobití za mnoho nocí.
 - Žije tu **Snorri Nosohryz** s hřebíky v lebce a s Bjorniho sekerou. Sedmnáct let **bez paměti**. Neví, kdo je, ani proč tu čeká. Ví jen, že tu má čekat.
 - Felixe nepozná. Gotreka také ne, ale **pozná sekeru**: „Snorri tu sekeru zná. Snorri ji má rád.“
 - Pozná, že to s nimi „dobře myslí“, a připojí se k nim. Je to komický i srdcervoucí návrat.
 - Snorri potvrdí, že tudy před měsícem prošli „rudí trolobijci“ a že **mohyla se zase hýbe**. Pečeť Stezek je na hraně, jak předpovídal Teclis. Je to jen náznak, žádná odbočka.
 
-### DVANÁCT: Kníže noci
+### OSM: Kníže noci (původně kap. 12 + 13)
+
+#### První část: Kníže noci (Mannfredův pohled)
 - **Kapitola z pohledu Mannfreda.** Drakenhof, Kriegerovy knihy a proroctví.
 - *Oko Velkého neumírajícího* (Oko Khemri) Gotrek v K6 rozsekl. **Nagašova stopa ale žije v Maxově mysli** (K6, past v Oku). Max je tedy posledním „Okem“, a proto ho Mannfred potřebuje.
 - Mannfred je chladný, ironický, starý a nebezpečný, Kriegerův opak. Děs a Rudé hřebeny jsou pro něj nástroj. Chce, aby Říše krvácela u Middenheimu, zatímco on povstane.
 - Nepohodlný detail: Skarn při průchodu Sylvánií usekl hlavy dvěma Mannfredovým upírům, kteří se mu pokusili vzít krev. Mezi Chaosem a nemrtvými není láska.
 
-### TŘINÁCT: Země, kde se platí krví
+#### Druhá část: Země, kde se platí krví
 - Pochod Sylvánií: vesnice odvádějí desátek krve, sylvánská šlechta mlčí. Ulrika je vede nocí a Gotrek ve dne nespí.
 - **Snorriho záblesky paměti.** U ohně si vybaví vypálené údolí a „Gotrekovu tvář, když byl mladý“. Pak zase nic. Felix se ho na nic neptá a sám se za to stydí.
 - Felix a Ulrika: rozhovor o tom, co kdo ztratil. Ona nemůže zestárnout a on nemůže omládnout.
 - Gotrek splatí Snorrimu **pivo** (dluh z K5 ř. 1796). Snorri neví proč, ale pije.
 
-### ČTRNÁCT: Drakenhof podruhé
+### DEVĚT: Drakenhof (původně kap. 14 + 15)
+
+#### První část: Drakenhof podruhé
 - Proniknutí do Drakenhofu. Pro Felixe jsou to vzpomínky na K6 a na smrt Ivana Petroviče.
 - Objeví se **hraběnka Gabriella**. Hraje vlastní hru: chce, aby Mannfred selhal, a G&F jsou její nástroj. Nabízí pomoc, kterou nelze odmítnout a které nelze věřit.
 - Ulrika se ocitá mezi „matkou“ a starou láskou.
 
-### PATNÁCT: Čaroděj ve věži
+#### Druhá část: Čaroděj ve věži
 - Felix najde **Maxe**. Je přes padesát, zesláblý a pološílený. Nagašův hlas mu šeptá, a když je mu nejhůř, mluví jeho ústy.
 - Chvíle lidskosti uprostřed hrůzy: Max se chytá zdravého rozumu tím, že si nechá podat **Thanquolův svitek**. Přečte ho a začne se nezadržitelně smát:
   > „Nezabíjet je – pak tě nezabijí. To je celé, Felixi. Kdyby vás nechal na pokoji, dožil by se stáří.“
 
   Je to poslední, černě komická tečka za Thanquolem.
 
-### ŠESTNÁCT: Krvavá nevěsta
+### DESET: Krvavá nevěsta (původně kap. 16)
 - Rituál Času krve. **Mannfred chce Ulriku** jako „družku Bledého krále“ z Kriegerových proroctví. Tento detail je náš výmysl a navazuje na Kriegerovy plány s ní v K6. Krev, kterou ji Krieger proměnil, je klíč a Maxova mysl je Oko.
 - Naplní se **Felixova vize z K7 ř. 536**: hrad v Sylvánii, střet s Mannfredem a **záchrana dívky**. Felix pochopí, že tou „dívkou“ byla celou dobu Ulrika.
 - Gotrek se střetne s Mannfredem a sekera ho zraní tak, že upír poprvé po staletích ucítí strach. **Mannfred uprchne** v podobě netopýrů a mlhy. Neumírá, aby nebyl porušen kánon, ale jeho rituál je zmařený.
 - Gotrekova sekera přetne nit mezi Maxem a Nagašem. Max je volný, ale přijde o část své moci. Konečně platí, jak doporučuje bible postav: jeho moc musí něco stát.
 
-### SEDMNÁCT: Hořící hora
+### JEDENÁCT: V soutěsce (původně kap. 17)
 - Při útěku z Drakenhofu čekají v soutěsce **Rudé hřebeny**. Je to druhá bitva trolobijců proti trolobijcům, tentokrát v mlze a mezi kameny.
 - **Kirgi** bojuje jako trolobijce a je děsivě dobrý.
 - Snorri v boji instinktivně volá Gotrekovo jméno, aniž ví proč.
@@ -183,7 +201,7 @@ Tři knihy s Kingovým rámcem. Každou otevírá úryvek z Felixových pamětí
 - **Gotrek poprvé za celou sérii couvne z boje.** Ne ze strachu. Pochopil, že nesmí zemřít špatně. Felix to vidí a nerozumí tomu. Kirgi tomu rozumí.
 - **Druhá polovina Felixovy přísahy (K1 ř. 141).** U ohně Gotrek Felixovi poprvé po dvaceti letech připomene, co mu tenkrát v opilosti v Altdorfu slíbil kromě eposu: *„A když mě uvidíš umírat špatnou smrtí, nedovolíš to.“* Felix si to nepamatuje. Gotrek ano. „Slíbils mi ještě jednu věc, človíčku. Teď ji dodržíš.“ Nový motor knihy, že Gotrek nesmí zemřít špatně, se tím stává **Felixovým úkolem**.
 
-### OSMNÁCT: Za kterou stranu
+### DVANÁCT: Za kterou stranu (původně kap. 18)
 - Rozhodnutí na rozcestí:
   - **Ulrika jde s nimi do Middenheimu.** Gabriella se loučí ironicky a s varováním, že Felix stárne a Ulrika ne.
   - Max jde také, protože Middenheim je jeho domov a v Ulrikstrasse sídlí jeho řád.
@@ -195,22 +213,24 @@ Tři knihy s Kingovým rámcem. Každou otevírá úryvek z Felixových pamětí
 
 ## KNIHA TŘETÍ: HOŘÍCÍ HORA
 
-> *Motto Knihy třetí:* „Nebylo ti souzeno tady dnes položit život. Tvoje prokletí je mnohem větší a čas jeho naplnění se blíží.“ (Duch trpasličí královny, K1 ř. 1182). Ve finále se ukáže, že „prokletím“ nebyla smrt, ale krev bratrovraha, která má Děsovi otevřít bránu (kap. 26). Gotrek prokletí zlomí tím, že zemře správně.
+> *Motto Knihy třetí:* „Nebylo ti souzeno tady dnes položit život. Tvoje prokletí je mnohem větší a čas jeho naplnění se blíží.“ (Duch trpasličí královny, K1 ř. 1182). Ve finále se ukáže, že „prokletím“ nebyla smrt, ale krev bratrovraha, která má Děsovi otevřít bránu (kap. 18). Gotrek prokletí zlomí tím, že zemře správně.
 >
 > *Úryvek z pamětí:* Felix předznamenává konec: „Slíbil jsem, že zapíšu jeho smrt. Netušil jsem, že nejtěžší bude zapsat, co jí předcházelo.“
 
-### DEVATENÁCT: Cesta mrtvých vesnic
+### TŘINÁCT: Cesta mrtvých vesnic (původně kap. 19)
 - Pochod Talabeclandem a Middenlandem. Uprchlíci, bestie Khazraka Jednookého a spálené vesnice.
 - **Setkání s vojskem krále Alrika** z Karak Hirnu, které táhne k Middenheimu se 700 bojovníky (K8 ř. 455, 1176). Alrik už zná pravdu o smrti svého syna. Je to krátká, tichá scéna mezi otcem a vrahem jeho syna, cameo bez boje. Alrik nic neodpustí, jen odloží: „Až padneš, trolobijce, zášť bude smazána. Postarej se, abys padl dobře.“ Felixovi pak předá Gorrilův vzkaz.
 - Felix si všimne, že Gotrek začal **spát**. Poprvé v knize. Něco se v něm usadilo.
 
-### DVACET: Fauschlag
+### ČTRNÁCT: Fauschlag (původně kap. 20 + 21)
+
+#### První část: Fauschlag
 - Proniknutí do obleženého Middenheimu. Max zná tajné chodby pod Ulrikstrasse.
 - **Město:** kurfiřt Todbringer, Ar-Ulric, ulrikánští fanatici, templáři Bílého vlka, hlad, oheň a krysy. Bouře Chaosu zůstává v pozadí, G&F nejsou její hlavní hrdinové.
 - Ulrika se ve dne skrývá ve sklepích. Fanatici by ji upálili.
 - **Ulrikův chrám s věčným plamenem** je cílem Rudých hřebenů. G&F se snaží přesvědčit velení. Nikdo jim nevěří, kromě Maxova řádu.
 
-### DVACET JEDNA: Krev na sněhu
+#### Druhá část: Krev na sněhu
 - **Kapitola z pohledu Skarna** v Archaonově táboře.
 - Děs se částečně zhmotňuje v krvi obětí. Skarn s ním rozmlouvá a cítí, jak mu démon nabízí víc: zničit nejen Gotreka, ale všechny trolobijce, celý Grimnirův kult.
 - **Skarnova pochybnost:** chtěl spravedlnost, ne vyhlazení vlastního národa. Tahle jediná trhlina se vrátí ve finále.
@@ -220,19 +240,21 @@ Tři knihy s Kingovým rámcem. Každou otevírá úryvek z Felixových pamětí
 
 - **Teclisův amulet** (zpět u Felixe). Teclis je kanonicky u Middenheimu s elfím kontingentem. Felix v noci vstane a jde ulicemi k elfímu ležení, aniž ví proč. Amulet, který nosil sedmnáct let „ze zvyku“, pálí na hrudi. Zastaví ho Max, který magii pozná: „Tohle nejsi ty, Felixi.“ Felix se dozví, k čemu amulet slouží (K7 ř. 808).
 
-### DVACET DVA: Trolobijci Karak Kadrinu
+### PATNÁCT: Když padá Snorri (původně kap. 22 + 23)
+
+#### První část: Trolobijci Karak Kadrinu
 - Přichází posila: Ungrimm Železná pěst s trolobijci Karak Kadrinu a s nimi **Hargrim**, už zhojený. Přiveze je **Malakai Makaisson** na vzducholodi slepené z trosek. Je to ozvěna příletu do Praag v K5 a odpověď na Gotrekovo „Kde je Makaisson, když ho potřebuju?“ (K8 ř. 164).
 - Malakai je starší, slepější a hlučnější. Po letech marného hledání smrti (Cech mechaniků, „Železná věž“, K6 ř. 1435) ví, že tohle je jeho poslední let. Řekne to Gotrekovi rovnou: „Tentokrát, Gurnissone, vona loď nepřistane. A já taky ne.“ Gotrek to chápe a mlčí.
 - Kirgi a Gotrek spolu stojí na hradbách jako dva trolobijci, mezi kterými stojí zášť a úcta zároveň.
 
-### DVACET TŘI: Když padá Snorri
+#### Druhá část: Když padá Snorri
 - Velká bitva pod hradbami. Do boje vpadne **orčí horda** (⚠️ kánon zmiňuje Grimgora, viz `04-svet-warhammeru.md`).
 - **Snorri Nosohryz padne v bitvě s orky a oplakávají ho všichni trolobijci.** Naplní se tak doslova Felixova vize z K7 ř. 536.
 - Před smrtí se mu **vrátí paměť**. Gotrekovi řekne jednu větu, která tvoří poslední dílek skládačky. Nesmí to být vysvětlení:
   > „Snorri si vzpomněl, proč sis oholil hlavu. Nebyla to tvoje vina. Většinou.“
 - Trolobijci pějí pohřební píseň. Gotrek nezpívá, jen stojí. Felix poprvé vidí, že Gotrek pláče, nebo si to aspoň myslí, protože prší. Je to ozvěna Arekovy vize z K5: „Možná plakal.“
 
-### DVACET ČTYŘI: Zabíječ zabíječů
+### ŠESTNÁCT: Zabíječ zabíječů (původně kap. 24)
 - **Velká bitva trolobijců.** Rudé hřebeny udeří na Ulrikův chrám tunely a ve zmatku bitvy. Ungrimmovi trolobijci jim jdou naproti na schodištích Fauschlagu.
 - Trolobijec proti trolobijci, hřeben proti hřebenu: oranžové proti černorudým. Je to vrchol titulu. Pro trpaslíky je tohle bratrovražda ve velkém a všichni to vědí.
 - Před bitvou nechá Ungrimm každého trolobijce ukázat runy na hrudi. Jeden je ukáže zpola vypálené. Je to poslední skrytý Rudý v Karak Kadrinu. Ungrimm ho nezabije, pošle ho do první řady: „Zemři na správné straně.“
@@ -240,7 +262,7 @@ Tři knihy s Kingovým rámcem. Každou otevírá úryvek z Felixových pamětí
 - **Kirgi Narinsson padne.** Zemře dobře, jako Narin. Poslední slova ke Gotrekovi: „Zášť je smazána. Narin měl pravdu: unikl jsem tomu být ténem.“
 - Rudé hřebeny proniknou do chrámu s Kladivem osudu.
 
-### DVACET PĚT: Poslední noc
+### SEDMNÁCT: Poslední noc (původně kap. 25)
 - Krátké příměří v noci před rozhodnutím, nejtišší kapitola knihy.
 - **Felix a Ulrika:** rozloučení, protože úsvit ji z boje vyřadí. Nic se nevyřeší, jen dořekne.
 - **Felix a Gotrek:** nevyslovené věci (viz `02-postavy.md`, kap. 3.4). Gotrek neodvolá Spáčova slova, „slabocha“ a „ukňouraného budižkničemu“, výslovně. Řekne ale něco, co je odvolá všechna:
@@ -248,14 +270,16 @@ Tři knihy s Kingovým rámcem. Každou otevírá úryvek z Felixových pamětí
 - Felix se nezeptá na Gotrekův zločin. Ví, že odpověď už má.
 - **Felix si strhne Teclisův amulet** a hodí ho do ohně, nebo ho pošle elfovi po Maxovi. Volí vlastní vůli za cenu ochrany. Bez amuletu bude zranitelný vůči démonům Stezek i vůči Děsově auře strachu. Gotrek si všimne a řekne jen: „Konečně.“
 
-### DVACET ŠEST: Ulrikův plamen
+### OSMNÁCT: Hořící hora (původně kap. 26 + 27)
+
+#### První část: Ulrikův plamen
 - Útok na chrám v plamenech. Věčný plamen, Kladivo osudu a Rudé hřebeny kolem.
 - **Souboj Skarn proti Gotrekovi.** Skarn bojuje, aby Gotreka zranil a jeho krev prolil na Kladivo. Gotrek bojuje, aby nekrvácel, což je pro trolobijce absurdní a nesnesitelné.
 - Felix se pokouší ukrást Kladivo z oltáře.
-- **Rozhodnutí:** Gotrek uzná Skarnovu zášť nahlas: „Tvoje zášť je spravedlivá. Lžeš jen v jedné věci.“ Skarn zaváhá, protože se vrací pochybnost z kap. 21. V tu chvíli ho Gotrek zabije.
+- **Rozhodnutí:** Gotrek uzná Skarnovu zášť nahlas: „Tvoje zášť je spravedlivá. Lžeš jen v jedné věci.“ Skarn zaváhá, protože se vrací pochybnost z kap. 14. V tu chvíli ho Gotrek zabije.
 - **Tragický zvrat:** zabitím Skarna Gotrek **znovu prolil krev trpaslíka**. Jeho sekera nese krev bratrovraha. Kapky dopadnou na Kladivo, které Felix drží v ruce. **Děs se zhmotní** a Gotrek sám dokončil rituál, kterému chtěl zabránit.
 
-### DVACET SEDM: Hořící hora
+#### Druhá část: Hořící hora
 - Vrchol Fauschlagu, hořící chrám, bouře, Morrslieb. **Naplňuje se vize z K7 ř. 536.**
 - Děs ve své nové podobě. Felix pochopí, proč ve vizi „vypadal jinak“. Démon se teprve rodí do světa, takže je silnější než v Karag Dumu, ale **zranitelný**, dokud ukotvení není dokonané.
 - **Obrácený motiv z K8:** v Karak Hirnu Gotrek použil Felixe jako návnadu („Věděl jsem, že se sehneš“, K8 ř. 3069). Teď Gotrek zachytí ránu určenou Felixovi.
@@ -264,7 +288,7 @@ Tři knihy s Kingovým rámcem. Každou otevírá úryvek z Felixových pamětí
 - Gotrek se sekerou v jedné ruce a s Kladivem v druhé. Naplní se Valekovo slovo, že sekera se vrátí, „až nastanou poslední dny“ (K3 ř. 1908), a Thangrimovo, že zbraň „vytváří osud toho, kdo ji nosí“. **Děs je zničen navždy**, ne jen vyhnán. Sekera, „prokletí bohů“ (K1 ř. 1973), konečně udělá to, k čemu byla ukována.
 - Gotrek je smrtelně raněn. Na okamžik je vidět, že proměna sekerou, kterou zjistil Teclis v K7, se dovršila: modré světlo v oku, aura a blesky jako v Karag Dumu (K3 ř. 2069–2071). Felix to nikdy nedokáže popsat a v pamětech to přizná.
 
-### DVACET OSM: Síň předků
+### DEVATENÁCT: Síň předků (původně kap. 28)
 - Úsvit nad Middenheimem. Bitva dole končí a Archaon se stahuje. Je to kánon, ale jen v pozadí, třeba jako vzdálená záře Valtenovy korouhve.
 - Gotrek umírá Felixovi v náručí. Poslední slova mají být krátká, nesentimentální a „gotrekovská“ (viz `02-postavy.md`, kap. 1.11). Návrh:
   > „Co tě zdrželo, človíčku?“ … „Tentokrát mě pustí dovnitř.“
@@ -297,49 +321,49 @@ Tři knihy s Kingovým rámcem. Každou otevírá úryvek z Felixových pamětí
 
 | Postava | Začátek | Konec | Klíčové kapitoly |
 |---|---|---|---|
-| **Gotrek** | vina, touha po smrti | očistná smrt, vstup do Síně předků | 2, 7, 17, 26–28 |
-| **Felix** | lež, únava, stáří | pravda, splněná přísaha, paměti | 2, 7, 10, 25, epilog |
-| **Thanquol** | poslední pokus o pomstu | definitivně mrtev Felixovou rukou | 1, 2, (15) |
+| **Gotrek** | vina, touha po smrti | očistná smrt, vstup do Síně předků | 2, 5, 11, 18–19 |
+| **Felix** | lež, únava, stáří | pravda, splněná přísaha, paměti | 2, 5, 7, 17, epilog |
+| **Thanquol** | poslední pokus o pomstu | definitivně mrtev Felixovou rukou | 1, 2, (9) |
 | **Lurk** | Thanquolův zrádce | mrtev Gotrekovou rukou | 2 |
-| **Kirgi Narinsson** | zášť krve | trolobijce, dobrá smrt, zášť smazána | 3, 4, 9, 17, 24 |
-| **Skarn Haldriksson** | oprávněná zášť, Khornův sluha | pochybnost a smrt, nechtěně otevře bránu | 5, 8, 17, 21, 26 |
-| **Ulrika** | „za kterou stranu?“ | za svou, a ve finále za Felixe | 10, 13, 16, 18, 25 |
-| **Max** | Mannfredův vězeň | volný, slabší, doma | 15, 16, 18, 20 |
-| **Snorri** | bez paměti | paměť se vrátí, padne a oplakávají ho všichni trolobijci | 11, 13, 18, 23 |
-| **Mannfred** | Čas krve | zmařený rituál, útěk (kánon zůstává netknutý) | 12, 16 |
-| **Děs** | přísaha pomsty | zničen navždy | 5, 21, 26–27 |
-| **Malakai** | hledá smrt marně | zavalí tunel vzducholodí, slavná smrt | 22, 24 |
-| **Hargrim** | strážce Kladiva, syn zabitého krále | vidí otcova vraha zničeného, dostane Kladivo zpět | 6, 8, 22, 27, epilog |
-| **Král Alrik** | otec Hamnira | cameo, zášť odložena a pak smazána | 19, epilog |
-| **Teclisův amulet** | „ze zvyku“ na krku | převezme Felixovu vůli, Felix ho strhne | 2, 21, 25, 27, epilog |
+| **Kirgi Narinsson** | zášť krve | trolobijce, dobrá smrt, zášť smazána | 3, 6, 11, 16 |
+| **Skarn Haldriksson** | oprávněná zášť, Khornův sluha | pochybnost a smrt, nechtěně otevře bránu | 4, 5, 11, 14, 18 |
+| **Ulrika** | „za kterou stranu?“ | za svou, a ve finále za Felixe | 7, 8, 10, 12, 17 |
+| **Max** | Mannfredův vězeň | volný, slabší, doma | 9, 10, 12, 14 |
+| **Snorri** | bez paměti | paměť se vrátí, padne a oplakávají ho všichni trolobijci | 7, 8, 12, 15 |
+| **Mannfred** | Čas krve | zmařený rituál, útěk (kánon zůstává netknutý) | 8, 10 |
+| **Děs** | přísaha pomsty | zničen navždy | 4, 14, 18 |
+| **Malakai** | hledá smrt marně | zavalí tunel vzducholodí, slavná smrt | 15, 16 |
+| **Hargrim** | strážce Kladiva, syn zabitého krále | vidí otcova vraha zničeného, dostane Kladivo zpět | 4, 5, 15, 18, epilog |
+| **Král Alrik** | otec Hamnira | cameo, zášť odložena a pak smazána | 13, epilog |
+| **Teclisův amulet** | „ze zvyku“ na krku | převezme Felixovu vůli, Felix ho strhne | 2, 14, 17, 18, epilog |
 
 ## 5. Nitky z osmi dílů, které osnova uzavírá
 
-- **Thanquol:** věštba Pána věštců (K2 ř. 685) a přísaha pomsty, uzavřeno v kap. 1, 2 a 15.
+- **Thanquol:** věštba Pána věštců (K2 ř. 685) a přísaha pomsty, uzavřeno v kap. 1, 2 a 9.
 - **Lurk:** uzavřeno v kap. 2.
 - **Hamnir:** lež, Birri, zášť Kamenokupců a Železných kůží, Narinova tříska. Kap. 3, 7, 9, 24.
-- **Gotrekův zločin:** Arekova vize (K5) a „bratrovrah“ (K1 ř. 180). Odhalen jen v útržcích v kap. 7, 8, 23, 26 a v epilogu.
-- **Sloup přísahy** (K4 ř. 950–956): kap. 6 a epilog.
-- **Síň předků**, kam Gotreka nepustili, protože „se neočistil v bitvě“ (K5 ř. 1788): kap. 28.
-- **Krvežíznivec z Karag Dumu a Kladivo osudu** (K3, K4): kap. 6, 8, 26, 27.
-- **Felixovy vize ze Stezek** (K7 ř. 536): Mannfred a dívka v kap. 16, Snorri v kap. 23, hořící hora v kap. 27.
-- **Ulrika a Gabriella**, Gotrekova výhrůžka (K6 ř. 2645): kap. 10, 14, 18.
-- **Max a Nagaš** (K6): kap. 12, 15, 16.
-- **Snorri a Max u mohyly** (K7 ř. 370): kap. 11.
-- **Drobné dluhy:** pivo pro Snorriho (K5) v kap. 13, Snorriho zlaťák pro Felixe (K3) v kap. 18.
+- **Gotrekův zločin:** Arekova vize (K5) a „bratrovrah“ (K1 ř. 180). Odhalen jen v útržcích v kap. 5, 15, 18 a v epilogu.
+- **Sloup přísahy** (K4 ř. 950–956): kap. 4 a epilog.
+- **Síň předků**, kam Gotreka nepustili, protože „se neočistil v bitvě“ (K5 ř. 1788): kap. 19.
+- **Krvežíznivec z Karag Dumu a Kladivo osudu** (K3, K4): kap. 4, 5, 18.
+- **Felixovy vize ze Stezek** (K7 ř. 536): Mannfred a dívka v kap. 10, Snorri v kap. 15, hořící hora v kap. 18.
+- **Ulrika a Gabriella**, Gotrekova výhrůžka (K6 ř. 2645): kap. 7, 9, 12.
+- **Max a Nagaš** (K6): kap. 8, 9, 10.
+- **Snorri a Max u mohyly** (K7 ř. 370): kap. 7.
+- **Drobné dluhy:** pivo pro Snorriho (K5) v kap. 8, Snorriho zlaťák pro Felixe (K3) v kap. 12.
 - **Felixovy paměti a epos „lepší, než co bylo kdy napsáno“** (K8 ř. 1615): epilog.
 
 ## 6. Rozhodnutí a zbývající otázky
 
-**Rozhodnuto:** Skarn Haldriksson zůstává. Malakai zemře (kap. 24). Král Alrik je v kap. 19 jako cameo. Body 1–7 z `08-neuzavrene-linky.md` jsou zapracované: druhá polovina přísahy, amulet, motto, Maxova zpověď, Hargrim, osud sekery, Ulfgart a skrytí Rudí. Sekera po Gotrekově smrti zmizí.
+**Rozhodnuto:** Skarn Haldriksson zůstává. Malakai zemře (kap. 16). Král Alrik je v kap. 13 jako cameo. Body 1–7 z `08-neuzavrene-linky.md` jsou zapracované: druhá polovina přísahy, amulet, motto, Maxova zpověď, Hargrim, osud sekery, Ulfgart a skrytí Rudí. Sekera po Gotrekově smrti zmizí.
 
 **Původní otázky (pro záznam):**
 
 1. **Jméno hlavního záporáka.** „Skarn Haldriksson“ je návrh. Jiné možnosti: Varn, Brokk, Durgrim.
-2. **Konec Gotreka.** Doporučuji jasnou smrt (kap. 28). Alternativa je, že zmizí v plamenech i se sekerou a konec zůstane otevřený. Pro „poslední díl“ ale doporučuji smrt.
+2. **Konec Gotreka.** Doporučuji jasnou smrt (kap. 19). Alternativa je, že zmizí v plamenech i se sekerou a konec zůstane otevřený. Pro „poslední díl“ ale doporučuji smrt.
 3. **Osud sekery:** zešedne a zůstane Felixovi, zmizí, nebo ji Felix uloží v Karak Kadrinu pod sloupem přísahy?
-4. **Malakai Makaisson** v kap. 22: ano, nebo ne? Je to fanouškovsky silné, ale vzducholoď hrozí jako *deus ex machina*.
-5. **Král Alrik** v kap. 19: zařadit, nebo vypustit kvůli tempu?
+4. ~~Malakai Makaisson~~: rozhodnuto, je ve hře a zemře (kap. 15–16).
+5. ~~Král Alrik~~: rozhodnuto, cameo v kap. 13.
 6. **Teclis** se může mihnout v epilogu u Middenheimu, kde kanonicky byl, a vzít si zpět amulet. Ano, nebo ne?
 7. **Felix a Ulrika:** stačí rozloučení, nebo jim dáme poslední noc?
 8. **Kdo se dozví celý Borkův dopis?** Doporučuji nikdo. Felix ho spálí.
@@ -347,8 +371,8 @@ Tři knihy s Kingovým rámcem. Každou otevírá úryvek z Felixových pamětí
 ## 7. Doplňky z analýzy neuzavřených linek (zapracováno)
 
 Rozbor v `08-neuzavrene-linky.md` navrhl a do osnovy jsme zapracovali:
-- druhou polovinu Felixovy opilé přísahy z K1 ř. 141, „nedovolíš, abych zemřel špatně“, kterou Gotrek vysloví v kap. 17;
-- Teclisův amulet, který převezme Felixovu vůli a Felix ho strhne (kap. 21, 25, 27);
+- druhou polovinu Felixovy opilé přísahy z K1 ř. 141, „nedovolíš, abych zemřel špatně“, kterou Gotrek vysloví v kap. 11;
+- Teclisův amulet, který převezme Felixovu vůli a Felix ho strhne (kap. 14, 17, 18);
 - věštbu ducha královny jako motto Knihy třetí;
 - Maxovu zpověď o kouzle lásky;
 - Hargrima a Kladivo osudu;

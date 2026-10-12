@@ -14,7 +14,7 @@ Zdroj: osm českých vydání z Google Drive (1–7 William King, 8 Nathan Long)
 | [04-svet-warhammeru.md](04-svet-warhammeru.md) | Bible světa: geografie, Bouře Chaosu, rasy, náboženství, reálie, **glosář české terminologie** (~135 hesel) |
 | [05-otevrene-linky-a-vychozi-stav.md](05-otevrene-linky-a-vychozi-stav.md) | Přesný výchozí stav po 8. dílu, 53 otevřených linek, nekonzistence, pevné body, časované bomby |
 | [06-navrhy-dejovych-linek.md](06-navrhy-dejovych-linek.md) | **5 návrhů, jak by se příběh mohl rozvíjet**, srovnání a doporučená kombinace |
-| [07-osnova-zabijec-zabijecu.md](07-osnova-zabijec-zabijecu.md) | **Osnova závěrečného dílu *Zabíječ zabíječů*** (linky 2 → 4 → 1, 28 kapitol a epilog) |
+| [07-osnova-zabijec-zabijecu.md](07-osnova-zabijec-zabijecu.md) | **Osnova závěrečného dílu *Zabíječ zabíječů*** (linky 2 → 4 → 1, 19 kapitol a epilog) |
 | [08-neuzavrene-linky.md](08-neuzavrene-linky.md) | Které linky osnova neuzavírá a co by se s nimi mělo nebo mohlo stát |
 | [text/](text/) | **Rukopis**: úvod, kapitoly a deník kontinuity |
 | [podklady/](podklady/) | Podrobná dossier ke každé z 8 knih (děj po kapitolách, postavy, lore, glosář, styl, otevřené linky, stav na konci) |

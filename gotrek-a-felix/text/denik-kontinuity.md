@@ -16,7 +16,7 @@ Průběžně doplňovaná fakta, která text ustanovil. Před psaním každé da
 - Věk kolem 42, bolí ho kolena. Pravou dlaň má rozedřenou o kámen.
 - Deník: třetí kniha od Východu. První dvě nechal u kupce v Barak Varru k odeslání do Altdorfu.
 - Zlatý Spáčův nákrčník spálil v ohni (kap. 1). Gotrek kývl.
-- **Teclisův amulet:** malý kovový přívěsek na tenkém řetízku, nosí ho 17 let pod košilí „ze zvyku“. Pohltil Thanquolův černý blesk, rozžhavil se a kolem Felixe roztál sníh do kruhu. Felix pak ucítil „tiché a vzdálené klepání za zdí“. To je semínko pro kap. 21.
+- **Teclisův amulet:** malý kovový přívěsek na tenkém řetízku, nosí ho 17 let pod košilí „ze zvyku“. Pohltil Thanquolův černý blesk, rozžhavil se a kolem Felixe roztál sníh do kruhu. Felix pak ucítil „tiché a vzdálené klepání za zdí“. To je semínko pro kap. 14.
 - **Thanquolův svitek** se skavenským přepisem věštby má v brašně u deníku. Nedokáže ho přečíst a napadá ho, že „snad kromě jednoho“ (Max).
 - Thanquola zabil Karaghulem do hrudi, pak mu useknul hlavu na dva údery.
 - Řekl, že o Thanquolovi napíše „jednu kapitolu. Krátkou.“
@@ -57,7 +57,7 @@ Průběžně doplňovaná fakta, která text ustanovil. Před psaním každé da
 - **Felix:**
   - Rodinná tiskárna patří otci a podnik nejspíš vede bratr Otto.
   - Dva deníky z Východu poslal z Barak Varru do Altdorfu.
-  - **Semínko pro kap. 17:** Felixovi proběhne hlavou Gotrekova věta z K1 *„To není všechno, co jsi slíbil“* (doloženo K1 ř. 141). Neví, co tím myslel, a za dvacet let se nezeptal.
+  - **Semínko pro kap. 11:** Felixovi proběhne hlavou Gotrekova věta z K1 *„To není všechno, co jsi slíbil“* (doloženo K1 ř. 141). Neví, co tím myslel, a za dvacet let se nezeptal.
   - Šermovat ho kdysi učil starý šermířský mistr v Altdorfu („každý obr stojí na stejných šlachách“).
   - **Max** mu kdysi u ohně vysvětloval skavenské únikové kouzlo jako „kouzlo zbabělců“, na pár set kroků. Je to fan doplněk.
 - **Thanquol (doplněk):**
